@@ -54,7 +54,7 @@ Dairy and Egg Products,"Cream, fluid, heavy whipping",2.84,2.74,0,2.92,36.08,23.
 Dairy and Egg Products,"Cream, whipped, cream topping, pressurized",3.2,12.49,0,8,22.22,13.831,101,8
 Dairy and Egg Products,"Cream, sour, reduced fat, cultured",2.94,4.26,0,0.16,12,7.47,104,89
 Dairy and Egg Products,"Cream, sour, cultured",2.44,4.63,0,3.41,19.35,10.14,101,31
-Dairy and Egg Products,Eggnog,4.55,8.05,0,8.05,4.19,2.591,130,54
+Dairy and Egg Products,"Eggnog",4.55,8.05,0,8.05,4.19,2.591,130,54
 Dairy and Egg Products,"Sour dressing, non-butterfat, cultured, filled cream-type",3.25,4.68,0,4.68,16.57,13.272,113,48
 Dairy and Egg Products,"Milk, filled, fluid, with blend of hydrogenated vegetable oils",3.33,4.74,0,NULL,3.46,0.768,128,57
 Dairy and Egg Products,"Milk, filled, fluid, with lauric acid oil",3.33,4.74,0,4.74,3.4,3.101,128,57
@@ -150,15 +150,15 @@ Dairy and Egg Products,"Yogurt, vanilla or lemon flavor, nonfat milk, sweetened 
 Dairy and Egg Products,"Parmesan cheese topping, fat free",40,40,0,1.5,5,3.11,800,1150
 Dairy and Egg Products,"Cheese, cream, fat free",15.69,7.66,0,5.48,1,0.644,351,702
 Dairy and Egg Products,"Yogurt, chocolate, nonfat milk",3.53,23.53,1.2,14.97,0,0,88,135
-Dairy and Egg Products,KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce,12,9.2,0.3,6.7,21,13.1,359,1638
-Dairy and Egg Products,KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product,16.3,16.2,0.2,8.2,9.5,6.4,418,1705
-Dairy and Egg Products,KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product,22.7,11.7,0.2,6.7,1,0.7,712,1298
-Dairy and Egg Products,KRAFT VELVEETA Pasteurized Process Cheese Spread,16.3,9.8,0,8.1,22,14.4,466,1499
-Dairy and Egg Products,KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product,19.6,11.8,0,8.5,10.6,7.1,574,1586
-Dairy and Egg Products,KRAFT BREAKSTONE'S Reduced Fat Sour Cream,4.5,6.5,0.1,6.4,12,7.6,161,59
-Dairy and Egg Products,KRAFT BREAKSTONE'S FREE Fat Free Sour Cream,4.7,15.1,0,7.2,1.3,0.8,141,72
+Dairy and Egg Products,"KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce",12,9.2,0.3,6.7,21,13.1,359,1638
+Dairy and Egg Products,"KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product",16.3,16.2,0.2,8.2,9.5,6.4,418,1705
+Dairy and Egg Products,"KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product",22.7,11.7,0.2,6.7,1,0.7,712,1298
+Dairy and Egg Products,"KRAFT VELVEETA Pasteurized Process Cheese Spread",16.3,9.8,0,8.1,22,14.4,466,1499
+Dairy and Egg Products,"KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product",19.6,11.8,0,8.5,10.6,7.1,574,1586
+Dairy and Egg Products,"KRAFT BREAKSTONE'S Reduced Fat Sour Cream",4.5,6.5,0.1,6.4,12,7.6,161,59
+Dairy and Egg Products,"KRAFT BREAKSTONE'S FREE Fat Free Sour Cream",4.7,15.1,0,7.2,1.3,0.8,141,72
 Dairy and Egg Products,"Cream, half and half, fat free",2.6,9,0,5,1.4,0.841,96,100
-Dairy and Egg Products,Reddi Wip Fat Free Whipped Topping,3,25,0.4,16,5,2.869,108,72
+Dairy and Egg Products,"Reddi Wip Fat Free Whipped Topping",3,25,0.4,16,5,2.869,108,72
 Dairy and Egg Products,"Milk, chocolate, fluid, commercial, reduced fat, with added calcium",2.99,12.13,0.7,9.55,1.9,1.177,194,66
 Dairy and Egg Products,"Yogurt, fruit, lowfat, with low calorie sweetener",4.86,18.6,0,2.9,1.41,0.909,152,58
 Dairy and Egg Products,"Cheese, parmesan, dry grated, reduced fat",20,1.37,0,0,20,13.317,1109,1529
@@ -180,7 +180,7 @@ Dairy and Egg Products,"Yogurt, vanilla or lemon flavor, nonfat milk, sweetened 
 Dairy and Egg Products,"Yogurt, chocolate, nonfat milk, fortified with vitamin D",3.53,23.53,1.2,14.97,0,0,88,135
 Dairy and Egg Products,"Protein supplement, milk based, Muscle Milk, powder",45.71,18.5,7.1,5.71,17.14,1.553,500,329
 Dairy and Egg Products,"Protein supplement, milk based, Muscle Milk Light, powder",50,22,2,4,12,1.087,1200,250
-Dairy and Egg Products,Dulce de Leche,6.84,55.35,0,49.74,7.35,4.534,251,129
+Dairy and Egg Products,"Dulce de Leche",6.84,55.35,0,49.74,7.35,4.534,251,129
 Dairy and Egg Products,"Egg substitute, liquid or frozen, fat free",10,2,0,2,0,0,73,199
 Dairy and Egg Products,"Cheese, dry white, queso seco",24.51,2.04,NULL,0.55,24.35,13.718,661,1808
 Dairy and Egg Products,"Cheese, fresh, queso fresco",18.09,2.98,0,2.32,23.82,12.94,566,751
@@ -190,8 +190,8 @@ Dairy and Egg Products,"Yogurt, vanilla flavor, lowfat milk, sweetened with low 
 Dairy and Egg Products,"Yogurt, frozen, flavors not chocolate, nonfat milk, with low-calorie sweetener",4.4,19.7,2,12.61,0.8,0.488,159,81
 Dairy and Egg Products,"Ice cream, soft serve, chocolate",4.1,22.2,0.7,21.16,13,7.46,131,61
 Dairy and Egg Products,"Ice cream, bar or stick, chocolate covered",4.1,24.5,0.8,18.3,24.1,13.202,119,68
-Dairy and Egg Products,Ice cream sandwich,4.29,37.14,0,18.57,8.57,2.317,86,129
-Dairy and Egg Products,Ice cream cookie sandwich,3.7,39.6,1.2,21.3,7.4,1.663,73,162
+Dairy and Egg Products,"Ice cream sandwich",4.29,37.14,0,18.57,8.57,2.317,86,129
+Dairy and Egg Products,"Ice cream cookie sandwich",3.7,39.6,1.2,21.3,7.4,1.663,73,162
 Dairy and Egg Products,"Ice cream cone, chocolate covered, with nuts, flavors other than chocolate",5.21,34.38,1,25,21.88,11.458,63,94
 Dairy and Egg Products,"Ice cream sandwich, made with light ice cream, vanilla",4.29,39.64,0,17.86,3.04,0.821,30,146
 Dairy and Egg Products,"Ice cream sandwich, vanilla, light, no sugar added",5.71,42.86,7.1,6.58,2.86,0.821,86,164
@@ -233,7 +233,7 @@ Dairy and Egg Products,"Yogurt, vanilla, non-fat",2.94,17.04,0,5.88,0,0,118,47
 Dairy and Egg Products,"Yogurt, Greek, vanilla, lowfat",8.64,9.54,0,9.54,2.5,1.465,100,40
 Dairy and Egg Products,"Yogurt, frozen, flavors other than chocolate, lowfat",8,21,0,21,2.5,1.509,200,45
 Dairy and Egg Products,"Ice cream bar, covered with chocolate and nuts",5.62,11.89,1.1,10.8,25.84,15.904,90,56
-Dairy and Egg Products,Ice cream sundae cone,3,28.89,1,21.26,14,2.717,60,115
+Dairy and Egg Products,"Ice cream sundae cone",3,28.89,1,21.26,14,2.717,60,115
 Dairy and Egg Products,"Light ice cream, Creamsicle",1.54,32.75,0,18.46,3.08,1.813,62,46
 Dairy and Egg Products,"Cream, half and half, lowfat",3.33,3.33,0,3.33,5,3.276,133,50
 Dairy and Egg Products,"Milk, chocolate, lowfat, reduced sugar",3.43,7.68,0,7.29,1.04,0.616,122,66
@@ -286,7 +286,7 @@ Spices and Herbs,"Mustard, prepared, yellow",3.74,5.83,4,0.92,3.34,0.214,63,1104
 Spices and Herbs,"Salt, table",0,0,0,0,0,0,24,38758
 Spices and Herbs,"Vinegar, cider",0,0.93,0,0.4,0,0,7,5
 Spices and Herbs,"Thyme, fresh",5.56,24.45,14,NULL,1.68,0.467,405,9
-Spices and Herbs,Vanilla extract,0.06,12.65,0,12.65,0.06,0.01,11,9
+Spices and Herbs,"Vanilla extract",0.06,12.65,0,12.65,0.06,0.01,11,9
 Spices and Herbs,"Vanilla extract, imitation, alcohol",0.05,2.41,0,NULL,0,NULL,0,4
 Spices and Herbs,"Vanilla extract, imitation, no alcohol",0.03,14.4,0,14.4,0,0,3,3
 Spices and Herbs,"Vinegar, distilled",0,0.04,0,0.04,0,0,6,2
@@ -303,7 +303,7 @@ Spices and Herbs,"Seasoning mix, dry, sazon, coriander & annatto",0,0,0,0,0,0,0,
 Spices and Herbs,"Seasoning mix, dry, taco, original",4.5,58,13.3,10.83,0,0,0,7203
 Spices and Herbs,"Seasoning mix, dry, chili, original",10.82,56.56,10.8,8.67,7.3,0,0,4616
 Fats and Oils,"Fat, beef tallow",0,0,0,0,100,49.8,0,0
-Fats and Oils,Lard,0,0,0,0,100,39.2,0,0
+Fats and Oils,"Lard",0,0,0,0,100,39.2,0,0
 Fats and Oils,"Salad dressing, russian dressing",0.69,31.9,0.7,17.68,26.18,2.39,13,1133
 Fats and Oils,"Salad dressing, sesame seed dressing, regular",3.1,8.6,1,8.32,45.2,6.2,19,1000
 Fats and Oils,"Salad dressing, thousand island, commercial, regular",1.09,14.64,0.8,15.18,35.06,5.092,17,962
@@ -369,7 +369,7 @@ Fats and Oils,"Shortening frying (heavy duty), beef tallow and cottonseed",0,0,0
 Fats and Oils,"Shortening confectionery, coconut (hydrogenated) and or palm kernel (hydrogenated)",0,0,0,0,100,91.3,0,0
 Fats and Oils,"Shortening industrial, soybean (hydrogenated) and cottonseed",0,0,0,0,100,25.6,0,0
 Fats and Oils,"Shortening frying (heavy duty), palm (hydrogenated)",0,0,0,NULL,100,47.5,0,0
-Fats and Oils,Shortening household soybean (hydrogenated) and palm,0,0,0,NULL,100,25.02,0,0
+Fats and Oils,"Shortening household soybean (hydrogenated) and palm",0,0,0,NULL,100,25.02,0,0
 Fats and Oils,"Shortening frying (heavy duty), soybean (hydrogenated), linoleic (less than 1%)",0,0,0,0,100,21.1,0,0
 Fats and Oils,"Shortening, confectionery, fractionated palm",0,0,0,NULL,100,65.5,0,0
 Fats and Oils,"Oil, nutmeg butter",0,0,0,0,100,90,0,0
@@ -750,7 +750,7 @@ Poultry Products,"Chicken, broiler or fryers, breast, skinless, boneless, meat o
 Poultry Products,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, braised",28.24,0,0,0,3.61,1.193,5,172
 Poultry Products,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, with added solution, cooked, grilled",29.5,0,0,0,3.39,1.012,6,215
 Sausages and Luncheon Meats,"Sausage, Berliner, pork, beef",15.27,2.59,0,2.35,17.2,6.08,12,1297
-Sausages and Luncheon Meats,Blood sausage,14.6,1.29,0,1.29,34.5,13.4,6,680
+Sausages and Luncheon Meats,"Blood sausage",14.6,1.29,0,1.29,34.5,13.4,6,680
 Sausages and Luncheon Meats,"Bockwurst, pork, veal, raw",14.03,2.95,1,1.33,25.87,10.256,41,756
 Sausages and Luncheon Meats,"Bologna, beef",10.91,4.29,0,2.05,26.13,10.487,21,1013
 Sausages and Luncheon Meats,"Bologna, beef and pork",15.2,5.49,0,4.42,24.59,9.301,85,960
@@ -760,7 +760,7 @@ Sausages and Luncheon Meats,"Bratwurst, pork, cooked",13.72,2.85,0,0,29.18,9.998
 Sausages and Luncheon Meats,"Braunschweiger (a liver sausage), pork",14.5,3.1,0,0,28.5,9.307,9,977
 Sausages and Luncheon Meats,"Brotwurst, pork, beef, link",14.3,2.98,0,2.98,27.8,9.93,48,1112
 Sausages and Luncheon Meats,"Cheesefurter, cheese smokie, pork, beef",14.1,1.51,0,1.51,29,10.47,58,1082
-Sausages and Luncheon Meats,Chicken spread,18.01,4.05,0.3,0.47,17.56,3.23,16,722
+Sausages and Luncheon Meats,"Chicken spread",18.01,4.05,0.3,0.47,17.56,3.23,16,722
 Sausages and Luncheon Meats,"Chorizo, pork and beef",24.1,1.86,0,0,38.27,14.38,8,1235
 Sausages and Luncheon Meats,"Corned beef loaf, jellied",22.9,0,0,NULL,6.1,2.6,11,953
 Sausages and Luncheon Meats,"Dutch brand loaf, chicken, pork and beef",12,3.93,0.3,0.9,22.91,8.806,7,786
@@ -772,9 +772,9 @@ Sausages and Luncheon Meats,"Ham, chopped, not canned",16.5,4.2,0,0,10.3,3.422,7
 Sausages and Luncheon Meats,"Ham, sliced, packaged (96% fat free, water added)",16.9,0.55,0,0,3.4,0.66,5,1279
 Sausages and Luncheon Meats,"Ham, sliced, regular (approximately 11% fat)",16.6,3.83,1.3,0,8.6,2.936,24,1143
 Sausages and Luncheon Meats,"Ham, minced",16.28,1.84,0,0,20.68,7.181,10,1245
-Sausages and Luncheon Meats,Ham salad spread,8.68,10.64,0,0,15.53,5.049,8,1075
-Sausages and Luncheon Meats,Ham and cheese loaf or roll,13.6,4,0,0,18.7,6.966,58,1000
-Sausages and Luncheon Meats,Ham and cheese spread,16.18,2.28,0,NULL,18.53,8.62,217,1197
+Sausages and Luncheon Meats,"Ham salad spread",8.68,10.64,0,0,15.53,5.049,8,1075
+Sausages and Luncheon Meats,"Ham and cheese loaf or roll",13.6,4,0,0,18.7,6.966,58,1000
+Sausages and Luncheon Meats,"Ham and cheese spread",16.18,2.28,0,NULL,18.53,8.62,217,1197
 Sausages and Luncheon Meats,"Headcheese, pork",13.83,0,0,0,10.9,3.402,16,941
 Sausages and Luncheon Meats,"Sausage, Italian, pork, raw",14.25,0.65,0,NULL,31.33,11.27,18,731
 Sausages and Luncheon Meats,"Knackwurst, knockwurst, pork, beef",11.1,3.2,0,0,27.7,10.21,11,930
@@ -802,7 +802,7 @@ Sausages and Luncheon Meats,"Pork sausage, link/patty, unprepared",15.39,0.93,0,
 Sausages and Luncheon Meats,"Pork sausage, link/patty, cooked, pan-fried",18.53,1.42,0,1.09,27.25,8.826,9,814
 Sausages and Luncheon Meats,"Pork and beef sausage, fresh, cooked",13.8,2.7,0,0,36.25,12.96,10,929
 Sausages and Luncheon Meats,"Turkey sausage, reduced fat, brown and serve, cooked (include BUTTERBALL breakfast links turkey sausage)",17,10.92,0.3,0,10.3,2.871,31,721
-Sausages and Luncheon Meats,Poultry salad sandwich spread,11.64,7.41,0,0,13.52,3.45,10,653
+Sausages and Luncheon Meats,"Poultry salad sandwich spread",11.64,7.41,0,0,13.52,3.45,10,653
 Sausages and Luncheon Meats,"Salami, cooked, beef",12.6,1.9,0,1.5,22.2,9.865,6,1140
 Sausages and Luncheon Meats,"Salami, cooked, beef and pork",21.85,2.4,0,0.96,25.9,9.316,15,1740
 Sausages and Luncheon Meats,"Salami, cooked, turkey",19.2,1.55,0.1,1.12,9.21,2.783,40,1107
@@ -820,7 +820,7 @@ Sausages and Luncheon Meats,"Sausage, Italian, pork, cooked",19.12,4.27,0.1,1.86
 Sausages and Luncheon Meats,"Luncheon sausage, pork and beef",15.38,1.58,0,NULL,20.9,7.62,13,1182
 Sausages and Luncheon Meats,"New england brand sausage, pork, beef",17.27,4.83,0,NULL,7.58,2.56,7,1220
 Sausages and Luncheon Meats,"Turkey bacon, unprepared",15.94,1.89,NULL,NULL,16.93,4.52,80,1069
-Sausages and Luncheon Meats,HORMEL Pillow Pak Sliced Turkey Pepperoni,30.99,3.78,0,0,11.52,3.52,26,1858
+Sausages and Luncheon Meats,"HORMEL Pillow Pak Sliced Turkey Pepperoni",30.99,3.78,0,0,11.52,3.52,26,1858
 Sausages and Luncheon Meats,"Turkey, pork, and beef sausage, low fat, smoked",8,11.54,0.6,0,2.5,0.85,10,796
 Sausages and Luncheon Meats,"USDA Commodity, pork, sausage, bulk/links/patties, frozen, cooked",19.76,0,0,NULL,20.26,5.532,9,540
 Sausages and Luncheon Meats,"Frankfurter, beef, pork, and turkey, fat free",12.5,11.21,0,0,1.59,0.5,54,880
@@ -829,8 +829,8 @@ Sausages and Luncheon Meats,"USDA Commodity, pork sausage, bulk/links/patties, f
 Sausages and Luncheon Meats,"Luncheon meat, pork with ham, minced, canned, includes SPAM (Hormel)",13.4,4.6,0,0,26.6,9.987,0,1411
 Sausages and Luncheon Meats,"Luncheon meat, pork and chicken, minced, canned, includes SPAM Lite",15.23,1.35,0,1.26,13.9,4.514,39,1032
 Sausages and Luncheon Meats,"Bratwurst, veal, cooked",13.99,0,0,0,31.7,14.94,11,60
-Sausages and Luncheon Meats,Liverwurst spread,12.38,5.89,2.5,1.65,25.45,9.925,22,700
-Sausages and Luncheon Meats,Roast beef spread,15.27,3.73,0.2,0.71,16.28,6.4,23,724
+Sausages and Luncheon Meats,"Liverwurst spread",12.38,5.89,2.5,1.65,25.45,9.925,22,700
+Sausages and Luncheon Meats,"Roast beef spread",15.27,3.73,0.2,0.71,16.28,6.4,23,724
 Sausages and Luncheon Meats,"Salami, pork, beef, less sodium",15.01,15.38,0.2,6.21,30.5,10.58,94,623
 Sausages and Luncheon Meats,"Sausage, Italian, sweet, links",16.13,2.1,0,0,8.42,3.257,25,570
 Sausages and Luncheon Meats,"Sausage, Polish, beef with chicken, hot",17.6,3.6,0,0,19.4,8.01,12,1540
@@ -839,7 +839,7 @@ Sausages and Luncheon Meats,"Sausage, pork and beef, with cheddar cheese, smoked
 Sausages and Luncheon Meats,"Sausage, summer, pork and beef, sticks, with cheddar cheese",19.43,1.82,0.2,0.12,37.91,10.47,81,1483
 Sausages and Luncheon Meats,"Sausage, turkey, breakfast links, mild",15.42,1.56,0,0,18.09,3.839,32,639
 Sausages and Luncheon Meats,"Swisswurst, pork and beef, with swiss cheese, smoked",12.69,1.6,0,0,27.37,NULL,74,827
-Sausages and Luncheon Meats,Bacon and beef sticks,29.1,0.8,0,0.8,44.2,16,14,1420
+Sausages and Luncheon Meats,"Bacon and beef sticks",29.1,0.8,0,0.8,44.2,16,14,1420
 Sausages and Luncheon Meats,"Bratwurst, beef and pork, smoked",12.2,2,0,0,26.34,6.08,7,848
 Sausages and Luncheon Meats,"Bratwurst, chicken, cooked",19.44,0,0,0,10.35,NULL,11,72
 Sausages and Luncheon Meats,"Bratwurst, pork, beef and turkey, lite, smoked",14.45,1.62,0,1.57,13.53,NULL,14,982
@@ -853,7 +853,7 @@ Sausages and Luncheon Meats,"Beerwurst, pork and beef",14,4.27,0.9,0,22.53,8.438
 Sausages and Luncheon Meats,"Chicken breast, fat-free, mesquite flavor, sliced",16.8,2.25,0,0.2,0.39,0.13,4,1040
 Sausages and Luncheon Meats,"Chicken breast, oven-roasted, fat-free, sliced",16.79,2.17,0,0.1,0.39,0.13,6,1087
 Sausages and Luncheon Meats,"Kielbasa, Polish, turkey and beef, smoked",13.1,3.9,0,0,17.6,6.23,NULL,1200
-Sausages and Luncheon Meats,Oven-roasted chicken breast roll,14.59,1.79,0,0.43,7.65,2.48,6,883
+Sausages and Luncheon Meats,"Oven-roasted chicken breast roll",14.59,1.79,0,0.43,7.65,2.48,6,883
 Sausages and Luncheon Meats,"Bologna, pork and turkey, lite",13.06,3.45,0,0,16.06,5.46,48,716
 Sausages and Luncheon Meats,"Bologna, pork, turkey and beef",11.56,6.66,0,1.35,29.25,11.7,31,1055
 Sausages and Luncheon Meats,"Ham, honey, smoked, cooked",17.93,7.27,0,0,2.37,0.87,6,900
@@ -1200,8 +1200,8 @@ Fruits and Fruit Juices,"Grapefruit juice, white, bottled, unsweetened, OCEAN SP
 Fruits and Fruit Juices,"Jackfruit, canned, syrup pack",0.36,23.94,0.9,NULL,0.14,NULL,44,11
 Fruits and Fruit Juices,"Dates, medjool",1.81,74.97,6.7,66.47,0.15,NULL,64,1
 Fruits and Fruit Juices,"Durian, raw or frozen",1.47,27.09,3.8,NULL,5.33,NULL,6,2
-Fruits and Fruit Juices,Prune puree,2.1,65.1,3.3,39,0.2,0.016,31,23
-Fruits and Fruit Juices,Candied fruit,0.34,82.74,1.6,80.68,0.07,0.01,18,98
+Fruits and Fruit Juices,"Prune puree",2.1,65.1,3.3,39,0.2,0.016,31,23
+Fruits and Fruit Juices,"Candied fruit",0.34,82.74,1.6,80.68,0.07,0.01,18,98
 Fruits and Fruit Juices,"Abiyuch, raw",1.5,17.6,5.3,8.55,0.1,0.014,8,20
 Fruits and Fruit Juices,"Rowal, raw",2.3,23.9,6.2,14.1,2,0.245,15,4
 Fruits and Fruit Juices,"Pineapple, raw, traditional varieties",0.55,11.82,NULL,8.29,0.13,NULL,13,1
@@ -1224,8 +1224,8 @@ Fruits and Fruit Juices,"Plantains, yellow, fried, Latino restaurant",1.42,40.77
 Fruits and Fruit Juices,"Nance, canned, syrup, drained",0.56,22.79,7,15.66,1.28,NULL,42,8
 Fruits and Fruit Juices,"Nance, frozen, unsweetened",0.66,16.97,7.5,8.31,1.16,NULL,46,3
 Fruits and Fruit Juices,"Naranjilla (lulo) pulp, frozen, unsweetened",0.44,5.9,1.1,3.74,0.22,NULL,8,4
-Fruits and Fruit Juices,Horned melon (Kiwano),1.78,7.56,NULL,NULL,1.26,NULL,13,2
-Fruits and Fruit Juices,Orange Pineapple Juice Blend,0.41,12.2,0.2,10.57,0.08,0.011,8,4
+Fruits and Fruit Juices,"Horned melon (Kiwano)",1.78,7.56,NULL,NULL,1.26,NULL,13,2
+Fruits and Fruit Juices,"Orange Pineapple Juice Blend",0.41,12.2,0.2,10.57,0.08,0.011,8,4
 Fruits and Fruit Juices,"Apples, raw, red delicious, with skin",0.27,14.06,2.3,10.48,0.2,NULL,6,1
 Fruits and Fruit Juices,"Apples, raw, golden delicious, with skin",0.28,13.6,2.4,10.04,0.15,NULL,6,2
 Fruits and Fruit Juices,"Apples, raw, granny smith, with skin",0.44,13.61,2.8,9.59,0.19,NULL,5,1
@@ -1437,7 +1437,7 @@ Pork Products,"HORMEL ALWAYS TENDER, Pork Tenderloin, Peppercorn-Flavored",17.21
 Pork Products,"HORMEL ALWAYS TENDER, Pork Loin Filets, Lemon Garlic-Flavored",17.83,1.79,NULL,0.22,4.16,1.41,6,590
 Pork Products,"HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork",18.74,0.84,NULL,0.28,9.62,3.6,14,378
 Pork Products,"HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",19.02,0.76,NULL,0.08,7.18,2.84,4,358
-Pork Products,HORMEL Canadian Style Bacon,16.88,1.87,NULL,1.43,4.94,1.83,6,1016
+Pork Products,"HORMEL Canadian Style Bacon",16.88,1.87,NULL,1.43,4.94,1.83,6,1016
 Pork Products,"Pork, fresh, loin, top loin (chops), boneless, separable lean only, with added solution, cooked, pan-broiled",28.95,0,0,0,5,1.797,10,209
 Pork Products,"Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, with added solution, cooked, pan-broiled",28.35,0,0,0,7.66,2.725,10,205
 Pork Products,"Pork, cured, bacon, cooked, baked",35.73,1.35,0,0,43.27,14.187,10,2193
@@ -1826,7 +1826,7 @@ Vegetables and Vegetable Products,"Peppers, sweet, green, frozen, chopped, boile
 Vegetables and Vegetable Products,"Peppers, sweet, green, sauteed",0.78,4.22,1.8,2.17,11.85,1.59,8,17
 Vegetables and Vegetable Products,"Pigeonpeas, immature seeds, raw",7.2,23.88,5.1,3,1.64,0.354,42,5
 Vegetables and Vegetable Products,"Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",5.96,19.49,4.2,2.48,1.36,0.365,41,5
-Vegetables and Vegetable Products,Poi,0.38,27.23,0.4,0.39,0.14,0.029,16,12
+Vegetables and Vegetable Products,"Poi",0.38,27.23,0.4,0.39,0.14,0.029,16,12
 Vegetables and Vegetable Products,"Pokeberry shoots, (poke), raw",2.6,3.7,1.7,NULL,0.4,NULL,53,23
 Vegetables and Vegetable Products,"Pokeberry shoots, (poke), cooked, boiled, drained, without salt",2.3,3.1,1.5,1.6,0.4,0.092,53,18
 Vegetables and Vegetable Products,"Potatoes, flesh and skin, raw",2.05,17.49,2.1,0.82,0.09,0.025,12,6
@@ -1884,7 +1884,7 @@ Vegetables and Vegetable Products,"Potatoes, frozen, french fried, par fried, ex
 Vegetables and Vegetable Products,"USDA Commodity, Potato wedges, frozen",2.7,25.5,2,0.3,2.2,0.55,15,49
 Vegetables and Vegetable Products,"Potatoes, french fried, steak fries, salt added in processing, frozen, as purchased",2.19,23.51,1.9,0.2,3.39,0.688,9,317
 Vegetables and Vegetable Products,"Potatoes, french fried, steak fries, salt added in processing, frozen, oven-heated",2.57,26.98,2.6,0.25,3.76,0.737,10,373
-Vegetables and Vegetable Products,Potato flour,6.9,83.1,5.9,3.52,0.34,0.09,65,55
+Vegetables and Vegetable Products,"Potato flour",6.9,83.1,5.9,3.52,0.34,0.09,65,55
 Vegetables and Vegetable Products,"Potato salad, home-prepared",2.68,11.17,1.3,NULL,8.2,1.429,19,529
 Vegetables and Vegetable Products,"Pumpkin flowers, raw",1.03,3.28,NULL,NULL,0.07,0.036,39,5
 Vegetables and Vegetable Products,"Pumpkin flowers, cooked, boiled, drained, without salt",1.09,3.3,0.9,2.4,0.08,0.041,37,6
@@ -1980,7 +1980,7 @@ Vegetables and Vegetable Products,"Tomatoes, red, ripe, canned, with green chili
 Vegetables and Vegetable Products,"Tomato juice, canned, with salt added",0.85,3.53,0.4,2.58,0.29,0.019,10,253
 Vegetables and Vegetable Products,"Tomato products, canned, paste, without salt added",4.32,18.91,4.1,12.18,0.47,0.1,36,59
 Vegetables and Vegetable Products,"Tomato products, canned, puree, without salt added",1.65,8.98,1.9,4.83,0.21,0.029,18,28
-Vegetables and Vegetable Products,Tomato powder,12.91,74.68,16.5,43.9,0.44,0.062,166,134
+Vegetables and Vegetable Products,"Tomato powder",12.91,74.68,16.5,43.9,0.44,0.062,166,134
 Vegetables and Vegetable Products,"Tomato products, canned, sauce",1.2,5.31,1.5,3.56,0.3,0.041,14,474
 Vegetables and Vegetable Products,"Tomato products, canned, sauce, with mushrooms",1.45,8.43,1.5,5.77,0.13,0.017,13,452
 Vegetables and Vegetable Products,"Tomato products, canned, sauce, with onions",1.56,9.94,1.8,NULL,0.19,0.03,17,551
@@ -2050,7 +2050,7 @@ Vegetables and Vegetable Products,"Beans, pinto, mature seeds, sprouted, cooked,
 Vegetables and Vegetable Products,"Carrot juice, canned",0.95,9.28,0.8,3.91,0.15,0.027,24,66
 Vegetables and Vegetable Products,"Corn pudding, home prepared",4.42,16.97,1.2,6.59,5.04,2.451,39,282
 Vegetables and Vegetable Products,"Potatoes, mashed, home-prepared, whole milk added",1.91,17.57,1.5,1.48,0.57,0.302,24,302
-Vegetables and Vegetable Products,Spinach souffle,7.89,5.9,0.7,1.85,12.95,6.091,165,566
+Vegetables and Vegetable Products,"Spinach souffle",7.89,5.9,0.7,1.85,12.95,6.091,165,566
 Vegetables and Vegetable Products,"Sweet potato, cooked, candied, home-prepared",0.89,32.12,2.1,27.25,3.54,2.171,26,119
 Vegetables and Vegetable Products,"Tomatoes, red, ripe, cooked, stewed",1.96,13.05,1.7,NULL,2.68,0.521,26,455
 Vegetables and Vegetable Products,"Seaweed, agar, dried",6.21,80.88,7.7,2.97,0.3,0.061,625,102
@@ -2059,7 +2059,7 @@ Vegetables and Vegetable Products,"Seaweed, spirulina, dried",57.47,23.9,3.6,3.1
 Vegetables and Vegetable Products,"Seaweed, wakame, raw",3.03,9.14,0.5,0.65,0.64,0.13,150,872
 Vegetables and Vegetable Products,"Peppers, hot chili, green, raw",2,9.46,1.5,5.1,0.2,0.021,18,7
 Vegetables and Vegetable Products,"Potatoes, o'brien, home-prepared",2.35,15.47,NULL,NULL,1.28,0.797,36,217
-Vegetables and Vegetable Products,Potato pancakes,6.08,27.81,3.3,1.79,14.76,2.496,32,764
+Vegetables and Vegetable Products,"Potato pancakes",6.08,27.81,3.3,1.79,14.76,2.496,32,764
 Vegetables and Vegetable Products,"Potatoes, baked, flesh and skin, without salt",2.5,21.15,2.2,1.18,0.13,0.034,15,10
 Vegetables and Vegetable Products,"Potatoes, microwaved, cooked in skin, flesh and skin, without salt",2.44,24.24,2.3,NULL,0.1,0.026,11,8
 Vegetables and Vegetable Products,"Radish seeds, sprouted, raw",3.81,3.6,NULL,NULL,2.53,0.767,51,6
@@ -2295,7 +2295,7 @@ Vegetables and Vegetable Products,"Peppers, sweet, red, freeze-dried",17.9,68.7,
 Vegetables and Vegetable Products,"Beans, snap, yellow, canned, regular pack, drained solids",1.15,4.5,1.3,0.78,0.1,0.022,26,251
 Vegetables and Vegetable Products,"Beans, snap, yellow, canned, no salt added, drained solids",1.15,4.5,1.3,0.78,0.1,0.022,26,2
 Vegetables and Vegetable Products,"Potatoes, mashed, home-prepared, whole milk and butter added",1.86,16.81,1.5,1.43,4.22,2.613,24,317
-Vegetables and Vegetable Products,Catsup,1.04,27.4,0.3,21.27,0.1,0.014,15,907
+Vegetables and Vegetable Products,"Catsup",1.04,27.4,0.3,21.27,0.1,0.014,15,907
 Vegetables and Vegetable Products,"Mushrooms, brown, italian, or crimini, exposed to ultraviolet light, raw",2.5,4.3,0.6,1.72,0.1,0.014,18,6
 Vegetables and Vegetable Products,"Pickles, cucumber, dill or kosher dill",0.5,2.41,1,1.07,0.3,0.079,57,809
 Vegetables and Vegetable Products,"Mushroom, white, exposed to ultraviolet light, raw",3.09,3.26,1,1.98,0.34,0.05,3,5
@@ -3543,7 +3543,7 @@ Legumes and Legume Products,"Beans, white, mature seeds, canned",7.26,21.2,4.8,0
 Legumes and Legume Products,"Broadbeans (fava beans), mature seeds, raw",26.12,58.29,25,5.7,1.53,0.254,103,13
 Legumes and Legume Products,"Broadbeans (fava beans), mature seeds, cooked, boiled, without salt",7.6,19.65,5.4,1.82,0.4,0.066,36,5
 Legumes and Legume Products,"Broadbeans (fava beans), mature seeds, canned",5.47,12.41,3.7,NULL,0.22,0.037,26,453
-Legumes and Legume Products,Carob flour,4.62,88.88,39.8,49.08,0.65,0.09,348,35
+Legumes and Legume Products,"Carob flour",4.62,88.88,39.8,49.08,0.65,0.09,348,35
 Legumes and Legume Products,"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",20.47,62.95,12.2,10.7,6.04,0.603,57,24
 Legumes and Legume Products,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",8.86,27.42,7.6,4.8,2.59,0.269,49,7
 Legumes and Legume Products,"Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids",4.92,13.49,4.4,NULL,1.95,0.204,35,278
@@ -3592,15 +3592,15 @@ Legumes and Legume Products,"Pigeon peas (red gram), mature seeds, raw",21.7,62.
 Legumes and Legume Products,"Pigeon peas (red gram), mature seeds, cooked, boiled, without salt",6.76,23.25,6.7,NULL,0.38,0.083,43,5
 Legumes and Legume Products,"Refried beans, canned, traditional style (includes USDA commodity)",4.98,13.55,3.7,0.54,2.01,0.631,29,370
 Legumes and Legume Products,"Bacon, meatless",11.69,5.31,2.6,0,29.52,4.622,23,1465
-Legumes and Legume Products,Meat extender,41.71,34.71,17.5,NULL,2.97,0.424,204,10
+Legumes and Legume Products,"Meat extender",41.71,34.71,17.5,NULL,2.97,0.424,204,10
 Legumes and Legume Products,"Sausage, meatless",20.28,8.09,2.8,0,18.16,2.926,63,888
 Legumes and Legume Products,"Soybeans, mature seeds, raw",36.49,30.16,9.3,7.33,19.94,2.884,277,2
 Legumes and Legume Products,"Soybeans, mature cooked, boiled, without salt",18.21,8.36,6,3,8.97,1.297,102,1
 Legumes and Legume Products,"Soybeans, mature seeds, roasted, salted",38.55,30.22,17.7,4.2,25.4,3.674,138,163
 Legumes and Legume Products,"Soybeans, mature seeds, dry roasted",43.32,28.98,8.1,NULL,21.62,3.127,140,2
-Legumes and Legume Products,Miso,12.79,25.37,5.4,6.2,6.01,1.025,57,3728
-Legumes and Legume Products,Natto,19.4,12.68,5.4,4.89,11,1.591,217,7
-Legumes and Legume Products,Tempeh,20.29,7.64,NULL,NULL,10.8,2.539,111,9
+Legumes and Legume Products,"Miso",12.79,25.37,5.4,6.2,6.01,1.025,57,3728
+Legumes and Legume Products,"Natto",19.4,12.68,5.4,4.89,11,1.591,217,7
+Legumes and Legume Products,"Tempeh",20.29,7.64,NULL,NULL,10.8,2.539,111,9
 Legumes and Legume Products,"Soy flour, full-fat, raw",37.81,31.92,9.6,7.5,20.65,2.987,206,13
 Legumes and Legume Products,"Soy flour, full-fat, roasted",38.09,30.38,9.7,7.61,21.86,3.162,188,12
 Legumes and Legume Products,"Soy flour, defatted",51.46,33.92,17.5,16.42,1.22,0.136,241,20
@@ -3608,15 +3608,15 @@ Legumes and Legume Products,"Soy flour, low-fat",49.81,30.63,16,9.33,8.9,1.29,28
 Legumes and Legume Products,"Soy meal, defatted, raw",49.2,35.89,NULL,NULL,2.39,0.268,244,3
 Legumes and Legume Products,"Soymilk, original and vanilla, unfortified",3.27,6.28,0.6,3.99,1.75,0.205,25,51
 Legumes and Legume Products,"Soy protein concentrate, produced by alcohol extraction",63.63,25.41,5.5,20,0.46,0.052,363,3
-Legumes and Legume Products,Soy protein isolate,88.32,0,0,0,3.39,0.422,178,1005
-Legumes and Legume Products,Soy sauce made from soy and wheat (shoyu),8.14,4.93,0.8,0.4,0.57,0.073,33,5493
-Legumes and Legume Products,Soy sauce made from soy (tamari),10.51,5.57,0.8,1.7,0.1,0.011,20,5586
-Legumes and Legume Products,Soy sauce made from hydrolyzed vegetable protein,7,7.84,0.5,1.3,0.51,0.04,17,6820
+Legumes and Legume Products,"Soy protein isolate",88.32,0,0,0,3.39,0.422,178,1005
+Legumes and Legume Products,"Soy sauce made from soy and wheat (shoyu)",8.14,4.93,0.8,0.4,0.57,0.073,33,5493
+Legumes and Legume Products,"Soy sauce made from soy (tamari)",10.51,5.57,0.8,1.7,0.1,0.011,20,5586
+Legumes and Legume Products,"Soy sauce made from hydrolyzed vegetable protein",7,7.84,0.5,1.3,0.51,0.04,17,6820
 Legumes and Legume Products,"Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)",9.04,2.85,0.9,0.6,4.17,0.793,201,12
 Legumes and Legume Products,"Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)",7.17,1.18,0.2,0.7,3.69,0.533,111,8
 Legumes and Legume Products,"Tofu, dried-frozen (koyadofu)",52.47,10.03,7.2,NULL,30.34,4.388,364,6
 Legumes and Legume Products,"Tofu, fried",18.82,8.86,3.9,2.72,20.18,2.918,372,16
-Legumes and Legume Products,Okara,3.52,12.23,NULL,NULL,1.73,0.193,80,9
+Legumes and Legume Products,"Okara",3.52,12.23,NULL,NULL,1.73,0.193,80,9
 Legumes and Legume Products,"Tofu, salted and fermented (fuyu)",8.92,4.38,NULL,NULL,8,1.157,46,2873
 Legumes and Legume Products,"Yardlong beans, mature seeds, raw",24.33,61.91,11,NULL,1.31,0.339,138,17
 Legumes and Legume Products,"Yardlong beans, mature seeds, cooked, boiled, without salt",8.29,21.09,3.8,NULL,0.45,0.116,42,5
@@ -3633,7 +3633,7 @@ Legumes and Legume Products,"Peanut spread, reduced sugar",24.8,14.23,7.8,6.35,5
 Legumes and Legume Products,"Peanut butter, smooth, reduced fat",25.9,35.65,5.2,9.28,34,5.76,35,540
 Legumes and Legume Products,"Peanut butter, smooth, vitamin and mineral fortified",25.72,18.75,5.6,10.47,50.81,10.125,43,420
 Legumes and Legume Products,"Peanut butter, chunky, vitamin and mineral fortified",26.06,17.69,5.7,10.94,51.47,7.972,45,366
-Legumes and Legume Products,Chickpea flour (besan),22.39,57.82,10.8,10.85,6.69,0.693,45,64
+Legumes and Legume Products,"Chickpea flour (besan)",22.39,57.82,10.8,10.85,6.69,0.693,45,64
 Legumes and Legume Products,"Hummus, commercial",7.9,14.29,6,NULL,9.6,1.437,38,379
 Legumes and Legume Products,"Tofu, extra firm, prepared with nigari",9.98,1.18,1,0.71,5.26,0.919,282,4
 Legumes and Legume Products,"Tofu, hard, prepared with nigari",12.68,4.39,0.6,NULL,9.99,1.445,345,2
@@ -3649,8 +3649,8 @@ Legumes and Legume Products,"Refried beans, canned, vegetarian",5.28,13.5,4.7,0.
 Legumes and Legume Products,"Refried beans, canned, fat-free",5.34,13.5,4.7,0.61,0.45,0.093,34,438
 Legumes and Legume Products,"Frijoles rojos volteados (Refried beans, red, canned)",5,15.47,4.7,NULL,6.93,0.926,33,375
 Legumes and Legume Products,"Tempeh, cooked",19.91,7.62,NULL,NULL,11.38,3.4,96,14
-Legumes and Legume Products,Campbell's Brown Sugar And Bacon Flavored Baked Beans,3.85,23.08,6.2,10,1.92,0.385,31,362
-Legumes and Legume Products,Campbell's Pork and Beans,4.62,19.23,5.4,6.15,1.15,0.385,31,338
+Legumes and Legume Products,"Campbell's Brown Sugar And Bacon Flavored Baked Beans",3.85,23.08,6.2,10,1.92,0.385,31,362
+Legumes and Legume Products,"Campbell's Pork and Beans",4.62,19.23,5.4,6.15,1.15,0.385,31,338
 Legumes and Legume Products,"PACE, Traditional Refried Beans",4.17,10.83,4.2,2.5,0,0,33,575
 Legumes and Legume Products,"PACE, Salsa Refried Beans",3.33,11.67,3.3,3.33,0,0,33,492
 Legumes and Legume Products,"PACE, Spicy Jalapeno Refried Beans",4.17,11.67,4.2,3.33,0,0,33,492
@@ -3685,19 +3685,19 @@ Legumes and Legume Products,"SILK Nog, soymilk",2.46,12.3,0,9.84,1.64,0,16,61
 Legumes and Legume Products,"SILK Chai, soymilk",2.47,7.82,0,5.76,1.44,0.206,123,41
 Legumes and Legume Products,"SILK Mocha, soymilk",2.06,9.05,0,7.41,1.44,0.206,123,41
 Legumes and Legume Products,"SILK Coffee, soymilk",2.06,10.29,0,9.47,1.44,0.206,123,41
-Legumes and Legume Products,SILK Vanilla soy yogurt (family size),2.64,13.66,0.4,10.57,1.76,0.22,132,13
-Legumes and Legume Products,SILK Vanilla soy yogurt (single serving size),2.94,14.71,0.6,10.59,1.76,0,176,12
-Legumes and Legume Products,SILK Plain soy yogurt,2.64,9.69,0.4,5.29,1.76,0.22,132,13
-Legumes and Legume Products,SILK Strawberry soy yogurt,2.35,18.24,0.6,12.94,1.18,0,176,15
-Legumes and Legume Products,SILK Raspberry soy yogurt,2.35,17.65,0.6,12.94,1.18,0,176,15
-Legumes and Legume Products,SILK Peach soy yogurt,2.35,18.82,0.6,14.71,1.18,0,176,15
-Legumes and Legume Products,SILK Black Cherry soy yogurt,2.35,17.06,0.6,11.76,1.18,0,176,12
-Legumes and Legume Products,SILK Blueberry soy yogurt,2.35,17.06,0.6,12.35,1.18,0,176,15
-Legumes and Legume Products,SILK Key Lime soy yogurt,2.35,17.65,0.6,12.35,1.18,0,176,15
-Legumes and Legume Products,SILK Banana-Strawberry soy yogurt,2.35,17.06,0.6,10.59,1.18,0,176,15
-Legumes and Legume Products,SILK Original Creamer,0,6.67,0,0,6.67,0,0,67
-Legumes and Legume Products,SILK French Vanilla Creamer,0,20,0,20,6.67,0,0,67
-Legumes and Legume Products,SILK Hazelnut Creamer,0,20,0,20,6.67,0,0,67
+Legumes and Legume Products,"SILK Vanilla soy yogurt (family size)",2.64,13.66,0.4,10.57,1.76,0.22,132,13
+Legumes and Legume Products,"SILK Vanilla soy yogurt (single serving size)",2.94,14.71,0.6,10.59,1.76,0,176,12
+Legumes and Legume Products,"SILK Plain soy yogurt",2.64,9.69,0.4,5.29,1.76,0.22,132,13
+Legumes and Legume Products,"SILK Strawberry soy yogurt",2.35,18.24,0.6,12.94,1.18,0,176,15
+Legumes and Legume Products,"SILK Raspberry soy yogurt",2.35,17.65,0.6,12.94,1.18,0,176,15
+Legumes and Legume Products,"SILK Peach soy yogurt",2.35,18.82,0.6,14.71,1.18,0,176,15
+Legumes and Legume Products,"SILK Black Cherry soy yogurt",2.35,17.06,0.6,11.76,1.18,0,176,12
+Legumes and Legume Products,"SILK Blueberry soy yogurt",2.35,17.06,0.6,12.35,1.18,0,176,15
+Legumes and Legume Products,"SILK Key Lime soy yogurt",2.35,17.65,0.6,12.35,1.18,0,176,15
+Legumes and Legume Products,"SILK Banana-Strawberry soy yogurt",2.35,17.06,0.6,10.59,1.18,0,176,15
+Legumes and Legume Products,"SILK Original Creamer",0,6.67,0,0,6.67,0,0,67
+Legumes and Legume Products,"SILK French Vanilla Creamer",0,20,0,20,6.67,0,0,67
+Legumes and Legume Products,"SILK Hazelnut Creamer",0,20,0,20,6.67,0,0,67
 Legumes and Legume Products,"Vitasoy USA Organic Nasoya, Soft Tofu",8.76,0.74,0.6,0.3,3.5,0.5,130,4
 Legumes and Legume Products,"Vitasoy USA Nasoya, Lite Silken Tofu",8.21,0,NULL,NULL,1.1,0.2,394,79
 Legumes and Legume Products,"Vitasoy USA Organic Nasoya, Tofu Plus Extra Firm",10.18,1.82,1,0.4,4.9,0.6,246,7
@@ -3706,8 +3706,8 @@ Legumes and Legume Products,"Vitasoy USA Organic Nasoya Sprouted, Tofu Plus Supe
 Legumes and Legume Products,"Vitasoy USA Azumaya, Extra Firm Tofu",10.07,1.53,0.9,0.5,4.6,0.6,176,26
 Legumes and Legume Products,"Vitasoy USA Azumaya, Firm Tofu",9.08,1.52,0.6,0.4,4.2,0.5,180,23
 Legumes and Legume Products,"Vitasoy USA Azumaya, Silken Tofu",4.82,0.58,0.2,0.2,2.4,0.3,66,2
-Legumes and Legume Products,HOUSE FOODS Premium Soft Tofu,6.38,2.19,0.8,0.53,2.71,0.48,78,34
-Legumes and Legume Products,HOUSE FOODS Premium Firm Tofu,10.92,0.97,0.9,0.4,4.19,0.71,149,33
+Legumes and Legume Products,"HOUSE FOODS Premium Soft Tofu",6.38,2.19,0.8,0.53,2.71,0.48,78,34
+Legumes and Legume Products,"HOUSE FOODS Premium Firm Tofu",10.92,0.97,0.9,0.4,4.19,0.71,149,33
 Legumes and Legume Products,"Beans, adzuki, mature seed, cooked, boiled, with salt",7.52,24.77,7.3,NULL,0.1,0.036,28,244
 Legumes and Legume Products,"Beans, black, mature seeds, cooked, boiled, with salt",8.86,23.71,8.7,0.32,0.54,0.139,27,237
 Legumes and Legume Products,"Beans, black, mature seeds, canned, low sodium",6.03,16.55,6.9,0.23,0.29,0.075,35,138
@@ -4414,7 +4414,7 @@ Baked Products,"Cake, yellow, commercially prepared, with vanilla frosting",2.99
 Baked Products,"Cake, pudding-type, yellow, dry mix",4,80,0.7,44.21,9.8,2.469,115,860
 Baked Products,"Cake, yellow, enriched, dry mix",3.7,81.92,1.2,43.29,3.5,1.62,211,728
 Baked Products,"Cake, yellow, prepared from recipe without frosting",5.3,53,0.7,NULL,14.6,3.924,146,343
-Baked Products,Cheesecake commercially prepared,5.5,25.5,0.4,21.8,22.5,9.921,51,438
+Baked Products,"Cheesecake commercially prepared",5.5,25.5,0.4,21.8,22.5,9.921,51,438
 Baked Products,"Cheesecake prepared from mix, no-bake type",5.5,35.5,1.9,NULL,12.7,6.691,172,380
 Baked Products,"Cookies, brownies, commercially prepared",4.8,63.9,2.1,36.61,16.3,4.235,29,286
 Baked Products,"Cookies, brownies, dry mix, regular",4,76.6,NULL,NULL,14.9,2.519,19,303
@@ -4492,7 +4492,7 @@ Baked Products,"Crackers, wheat, regular",7.3,70.73,6.9,15.48,16.4,3.21,92,699
 Baked Products,"Crackers, wheat, sandwich, with cheese filling",9.8,58.2,3.1,NULL,25,4.129,204,839
 Baked Products,"Crackers, wheat, sandwich, with peanut butter filling",13.5,53.8,4.4,NULL,26.7,4.602,170,807
 Baked Products,"Crackers, whole-wheat",10.58,69.55,10.3,1.19,14.13,2.063,36,704
-Baked Products,Cracker meal,9.3,80.9,2.6,0.33,1.7,0.271,23,16
+Baked Products,"Cracker meal",9.3,80.9,2.6,0.33,1.7,0.271,23,16
 Baked Products,"Cream puff shell, prepared from recipe",9,22.8,0.8,0.25,25.9,5.599,36,483
 Baked Products,"Croissants, butter",8.2,45.8,2.6,11.26,21,11.659,37,467
 Baked Products,"Croissants, apple",7.4,37.1,2.5,NULL,8.7,4.994,30,274
@@ -4578,7 +4578,7 @@ Baked Products,"Pie crust, standard-type, frozen, ready-to-bake, enriched",6.16,
 Baked Products,"Pie crust, standard-type, frozen, ready-to-bake, enriched, baked",6.5,56.24,3.3,4.23,28.59,9.277,21,467
 Baked Products,"Pie crust, standard-type, prepared from recipe, baked",6.4,47.5,1.7,0.17,34.6,8.622,10,542
 Baked Products,"Puff pastry, frozen, ready-to-bake",7.3,45.1,1.5,0.74,38.1,9.643,10,249
-Baked Products,Phyllo dough,7.1,52.6,1.9,0.18,6,1.47,11,483
+Baked Products,"Phyllo dough",7.1,52.6,1.9,0.18,6,1.47,11,483
 Baked Products,"Popovers, dry mix, enriched",10.4,71,NULL,NULL,4.3,0.983,32,906
 Baked Products,"Rolls, dinner, plain, commercially prepared (includes brown-and-serve)",10.86,52.04,2,5.55,6.47,1.375,178,467
 Baked Products,"Rolls, dinner, egg",9.5,52,3.7,4.3,6.4,1.577,59,566
@@ -4603,7 +4603,7 @@ Baked Products,"Tortillas, ready-to-bake or -fry, corn",5.7,44.64,6.3,0.88,2.85,
 Baked Products,"Tortillas, ready-to-bake or -fry, flour, refrigerated",8.2,49.38,3.5,3.71,7.99,2.924,146,736
 Baked Products,"Waffles, plain, frozen, ready-to-heat",6.47,42.98,2.2,4.91,9.7,1.531,308,638
 Baked Products,"Waffles, plain, prepared from recipe",7.9,32.9,NULL,NULL,14.1,2.866,255,511
-Baked Products,Wonton wrappers (includes egg roll wrappers),9.8,57.9,1.8,NULL,1.5,0.263,47,572
+Baked Products,"Wonton wrappers (includes egg roll wrappers)",9.8,57.9,1.8,NULL,1.5,0.263,47,572
 Baked Products,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",0,27.7,0.2,0,0,0,5876,10600
 Baked Products,"Leavening agents, baking powder, double-acting, straight phosphate",0.1,24.1,0.2,0,0,0,7364,7893
 Baked Products,"Leavening agents, baking powder, low-sodium",0.1,46.9,2.2,0,0.4,0.073,4332,90
@@ -4685,7 +4685,7 @@ Baked Products,"KELLOGG, KELLOGG'S EGGO, Buttermilk Pancake",5.3,38.6,1,10,8,1.3
 Baked Products,"KELLOGG, KELLOG'S NUTRI-GRAIN CEREAL BARS, Mixed Berry",4.3,72.8,1.9,33.6,7.6,1.5,39,284
 Baked Products,"KELLOGG'S, EGGO, Waffles, Homestyle, Low Fat",6.3,44.9,1.3,4.5,3.5,0.9,378,393
 Baked Products,"KELLOGG'S, EGGO, NUTRI-GRAIN, Waffles, Low Fat",6.5,39,4,3.9,3.5,0.8,143,559
-Baked Products,KELLOGG'S EGGO Lowfat Blueberry Nutri-Grain Waffles,5.95,42.71,3.5,8.89,2.83,0.41,61,591
+Baked Products,"KELLOGG'S EGGO Lowfat Blueberry Nutri-Grain Waffles",5.95,42.71,3.5,8.89,2.83,0.41,61,591
 Baked Products,"ARCHWAY Home Style Cookies, Sugar Free Oatmeal",5.54,67.2,1.9,1.26,20.92,4.9,20,308
 Baked Products,"ARCHWAY Home Style Cookies, Chocolate Chip Ice Box",4.28,65.02,2,34.06,24.4,8.08,14,270
 Baked Products,"ARCHWAY Home Style Cookies, Coconut Macaroon",3.02,61.23,5.1,45.16,22.55,20.1,5,200
@@ -4813,7 +4813,7 @@ Sweets,"Snacks, fruit leather, rolls",0.1,85.8,0,49.16,3,0.672,32,317
 Snacks,"Snacks, granola bars, hard, plain",10.1,64.4,5.3,28.57,19.8,2.37,61,294
 Snacks,"Snacks, granola bars, hard, almond",7.7,62,4.8,NULL,25.5,12.51,32,256
 Snacks,"Snacks, granola bars, hard, chocolate chip",7.3,72.1,4.4,NULL,16.3,11.41,77,344
-Sweets,Fruit syrup,0,85.13,0.1,53,0,0,8,0
+Sweets,"Fruit syrup",0,85.13,0.1,53,0,0,8,0
 Snacks,"Snacks, granola bars, soft, uncoated, plain",7.4,67.3,4.6,NULL,17.2,7.25,105,278
 Snacks,"Snacks, granola bars, soft, uncoated, peanut butter",10.5,64.4,4.3,NULL,15.8,3.65,91,409
 Snacks,"Snacks, granola bars, soft, uncoated, raisin",7.6,66.4,4.2,NULL,17.8,9.57,101,282
@@ -4907,7 +4907,7 @@ Sweets,"Puddings, banana, dry mix, instant, prepared with 2% milk",2.76,19.74,0,
 Sweets,"Puddings, banana, dry mix, regular, prepared with 2% milk",2.9,18.43,0,NULL,1.73,1.015,109,164
 Sweets,"Puddings, chocolate, dry mix, instant, prepared with 2% milk",3.15,18.89,0.4,NULL,1.92,1.064,104,284
 Sweets,"Baking chocolate, mexican, squares",3.64,77.41,4,69.4,15.59,8.606,34,3
-Sweets,Chocolate-flavored hazelnut spread,5.41,62.16,5.4,54.05,29.73,28.423,108,41
+Sweets,"Chocolate-flavored hazelnut spread",5.41,62.16,5.4,54.05,29.73,28.423,108,41
 Sweets,"Candies, milk chocolate coated peanuts",13.1,49.7,4.7,37.59,33.5,14.6,104,41
 Sweets,"Candies, milk chocolate coated raisins",4.1,68.4,3.1,62.22,14.8,10.272,86,36
 Sweets,"Syrups, table blends, pancake, reduced-calorie",0,44.55,0,32.8,0,0,10,178
@@ -4942,7 +4942,7 @@ Sweets,"Candies, MARS SNACKFOOD US, 3 MUSKETEERS Bar",2.6,77.77,1.5,66.89,12.75,
 Sweets,"Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars",4.91,64.8,1.1,48.25,24.85,18.96,106,198
 Sweets,"Candies, MARS SNACKFOOD US, TWIX Peanut Butter Cookie Bars",9.18,54.15,3.1,36.13,32.67,15.758,75,226
 Sweets,"Candies, WHATCHAMACALLIT Candy Bar",8.04,63.23,1.9,48.86,23.68,17.04,118,299
-Sweets,Chewing gum,0,96.7,2.4,66.08,0.3,0.042,0,1
+Sweets,"Chewing gum",0,96.7,2.4,66.08,0.3,0.042,0,1
 Sweets,"Candies, SPECIAL DARK Chocolate Bar",5.54,60.49,6.5,47.56,32.4,NULL,30,6
 Sweets,"Cocoa, dry powder, unsweetened",19.6,57.9,37,1.75,13.7,8.07,128,21
 Sweets,"Cocoa, dry powder, unsweetened, processed with alkali",18.1,58.3,29.8,1.76,13.1,7.76,111,19
@@ -5036,13 +5036,13 @@ Sweets,"Candies, MARS SNACKFOOD US, M&M's Crispy Chocolate Candies",4.28,72.4,2,
 Sweets,"Frozen yogurts, vanilla, soft-serve",4,24.2,0,24,5.6,3.42,143,87
 Sweets,"Fruit butters, apple",0.39,42.47,1.5,35.3,0.3,0.053,14,15
 Sweets,"Candies, MARS SNACKFOOD US, SNICKERS MUNCH bar",15.25,43.64,4.7,30.87,36.22,8.819,54,358
-Sweets,Honey,0.3,82.4,0.2,82.12,0,0,6,4
-Sweets,Jams and preserves,0.37,68.86,1.1,48.5,0.07,0.01,20,32
-Sweets,Jellies,0.15,69.95,1,51.22,0.02,0.005,7,30
+Sweets,"Honey",0.3,82.4,0.2,82.12,0,0,6,4
+Sweets,"Jams and preserves",0.37,68.86,1.1,48.5,0.07,0.01,20,32
+Sweets,"Jellies",0.15,69.95,1,51.22,0.02,0.005,7,30
 Sweets,"Candies, fudge, chocolate marshmallow, with nuts, prepared-by-recipe",3.24,67.69,2.1,NULL,21.11,10.378,49,79
 Sweets,"Candies, MARS SNACKFOOD US, SNICKERS Almond bar",5.4,64.67,2.6,53.93,22.4,8.534,132,156
 Sweets,"Marmalade, orange",0.3,66.3,0.7,60,0,0,38,56
-Sweets,Molasses,0,74.73,0,74.72,0.1,0.018,205,37
+Sweets,"Molasses",0,74.73,0,74.72,0.1,0.018,205,37
 Sweets,"Candies, MARS SNACKFOOD US, POP'ABLES SNICKERS Brand Bite Size Candies",7.15,61.07,2.3,51.69,24.32,9.891,96,224
 Sweets,"Candies, MARS SNACKFOOD US, POP'ABLES MILKY WAY Brand Bite Size Candies",3.3,71.85,1,61.08,18,8.889,91,146
 Sweets,"Candies, MARS SNACKFOOD US, POP'ABLES 3 MUSKETEERS Brand Bite Size Candies",2.59,75.94,1.3,67,15.17,9.921,60,172
@@ -5224,11 +5224,11 @@ Sweets,"Candies, HERSHEYS, PAYDAY Bar",13.44,52.88,3.8,40.32,25,4.806,94,231
 Sweets,"Syrup, NESTLE, chocolate",0,67.21,0,60,0,0,0,150
 Cereal Grains and Pasta,"Amaranth grain, uncooked",13.56,65.25,6.7,1.69,7.02,1.459,159,4
 Cereal Grains and Pasta,"Amaranth grain, cooked",3.8,18.69,2.1,NULL,1.58,NULL,47,6
-Cereal Grains and Pasta,Arrowroot flour,0.3,88.15,3.4,NULL,0.1,0.019,40,2
+Cereal Grains and Pasta,"Arrowroot flour",0.3,88.15,3.4,NULL,0.1,0.019,40,2
 Cereal Grains and Pasta,"Barley, hulled",12.48,73.48,17.3,0.8,2.3,0.482,33,12
 Cereal Grains and Pasta,"Barley, pearled, raw",9.91,77.72,15.6,0.8,1.16,0.244,29,9
 Cereal Grains and Pasta,"Barley, pearled, cooked",2.26,28.22,3.8,0.28,0.44,0.093,11,3
-Cereal Grains and Pasta,Buckwheat,13.25,71.5,10,NULL,3.4,0.741,18,1
+Cereal Grains and Pasta,"Buckwheat",13.25,71.5,10,NULL,3.4,0.741,18,1
 Cereal Grains and Pasta,"Buckwheat groats, roasted, dry",11.73,74.95,10.3,NULL,2.71,0.591,17,11
 Cereal Grains and Pasta,"Buckwheat groats, roasted, cooked",3.38,19.94,2.7,0.9,0.62,0.134,7,4
 Cereal Grains and Pasta,"Buckwheat flour, whole-groat",12.62,70.59,10,2.6,3.1,0.677,41,11
@@ -5245,7 +5245,7 @@ Cereal Grains and Pasta,"Cornmeal, degermed, enriched, yellow",7.11,79.45,3.9,1.
 Cereal Grains and Pasta,"Cornmeal, yellow, self-rising, bolted, plain, enriched",8.28,70.28,6.7,NULL,3.4,0.478,361,1247
 Cereal Grains and Pasta,"Cornmeal, yellow, self-rising, bolted, with wheat flour added, enriched",8.41,73.43,6.3,NULL,2.85,0.4,299,1319
 Cereal Grains and Pasta,"Cornmeal, yellow, self-rising, degermed, enriched",8.41,74.79,7.1,NULL,1.72,0.234,350,1348
-Cereal Grains and Pasta,Cornstarch,0.26,91.27,0.9,0,0.05,0.009,2,9
+Cereal Grains and Pasta,"Cornstarch",0.26,91.27,0.9,0,0.05,0.009,2,9
 Cereal Grains and Pasta,"Couscous, dry",12.76,77.43,5,NULL,0.64,0.117,24,10
 Cereal Grains and Pasta,"Couscous, cooked",3.79,23.22,1.4,0.1,0.16,0.029,8,5
 Cereal Grains and Pasta,"Hominy, canned, white",1.48,14.26,2.5,1.82,0.88,0.123,10,345
@@ -5256,7 +5256,7 @@ Cereal Grains and Pasta,"Oat bran, cooked",3.21,11.44,2.6,NULL,0.86,0.163,10,1
 Cereal Grains and Pasta,"Quinoa, uncooked",14.12,64.16,7,NULL,6.07,0.706,47,5
 Cereal Grains and Pasta,"Rice, brown, long-grain, raw",7.54,76.25,3.6,0.66,3.2,0.591,9,5
 Cereal Grains and Pasta,"Rice, brown, long-grain, cooked",2.74,25.58,1.6,0.24,0.97,0.26,3,4
-Cereal Grains and Pasta,Oats,16.89,66.27,10.6,NULL,6.9,1.217,54,2
+Cereal Grains and Pasta,"Oats",16.89,66.27,10.6,NULL,6.9,1.217,54,2
 Cereal Grains and Pasta,"Rice, brown, medium-grain, raw",7.5,76.17,3.4,NULL,2.68,0.536,33,4
 Cereal Grains and Pasta,"Rice, brown, medium-grain, cooked",2.32,23.51,1.8,NULL,0.83,0.165,10,1
 Cereal Grains and Pasta,"Rice, brown, parboiled, dry, UNCLE BEN'S",7.6,78.68,3.5,0.5,2.75,0.481,8,6
@@ -5275,14 +5275,14 @@ Cereal Grains and Pasta,"Rice, white, glutinous, unenriched, cooked",2.02,21.09,
 Cereal Grains and Pasta,"Rice, white, steamed, Chinese restaurant",3.2,33.88,0.9,NULL,0.27,NULL,5,5
 Cereal Grains and Pasta,"Rice bran, crude",13.35,49.69,21,0.9,20.85,4.171,57,5
 Cereal Grains and Pasta,"Rice flour, white, unenriched",5.95,80.13,2.4,0.12,1.42,0.386,10,0
-Cereal Grains and Pasta,Rye grain,10.34,75.86,15.1,0.98,1.63,0.197,24,2
+Cereal Grains and Pasta,"Rye grain",10.34,75.86,15.1,0.98,1.63,0.197,24,2
 Cereal Grains and Pasta,"Rye flour, dark",15.91,68.63,23.8,2.31,2.22,0.269,37,2
 Cereal Grains and Pasta,"Rye flour, medium",10.88,75.43,11.8,1.1,1.52,0.18,24,2
 Cereal Grains and Pasta,"Rye flour, light",9.82,76.68,8,0.93,1.33,0.15,13,2
 Cereal Grains and Pasta,"Semolina, enriched",12.68,72.83,3.9,NULL,1.05,0.15,17,1
-Cereal Grains and Pasta,Sorghum grain,10.62,72.09,6.7,2.53,3.46,0.61,13,2
+Cereal Grains and Pasta,"Sorghum grain",10.62,72.09,6.7,2.53,3.46,0.61,13,2
 Cereal Grains and Pasta,"Tapioca, pearl, dry",0.19,88.69,0.9,3.35,0.02,0.005,20,1
-Cereal Grains and Pasta,Triticale,13.05,72.13,NULL,NULL,2.09,0.366,37,5
+Cereal Grains and Pasta,"Triticale",13.05,72.13,NULL,NULL,2.09,0.366,37,5
 Cereal Grains and Pasta,"Triticale flour, whole-grain",13.18,73.14,14.6,NULL,1.81,0.318,35,2
 Cereal Grains and Pasta,"Wheat, hard red spring",15.4,68.03,12.2,0.41,1.92,0.314,25,2
 Cereal Grains and Pasta,"Wheat, hard red winter",12.61,71.18,12.2,0.41,1.54,0.269,29,2
@@ -5329,8 +5329,8 @@ Cereal Grains and Pasta,"Pasta, whole-wheat, cooked",5.99,30.07,3.9,0.75,1.71,0.
 Cereal Grains and Pasta,"Spaghetti, spinach, dry",13.35,74.81,10.6,2.72,1.57,0.226,58,36
 Cereal Grains and Pasta,"Spaghetti, spinach, cooked",4.58,26.15,NULL,NULL,0.63,0.091,30,14
 Cereal Grains and Pasta,"Wheat flours, bread, unenriched",11.98,72.53,2.4,0.31,1.66,0.244,15,2
-Cereal Grains and Pasta,Barley flour or meal,10.5,74.52,10.1,0.8,1.6,0.335,32,4
-Cereal Grains and Pasta,Barley malt flour,10.28,78.3,7.1,0.8,1.84,0.386,37,11
+Cereal Grains and Pasta,"Barley flour or meal",10.5,74.52,10.1,0.8,1.6,0.335,32,4
+Cereal Grains and Pasta,"Barley malt flour",10.28,78.3,7.1,0.8,1.84,0.386,37,11
 Cereal Grains and Pasta,"Oat flour, partially debranned",14.66,65.7,6.5,0.8,9.12,1.607,55,19
 Cereal Grains and Pasta,"Rice noodles, dry",5.95,80.18,1.6,0.12,0.56,0.153,18,182
 Cereal Grains and Pasta,"Rice noodles, cooked",1.79,24.01,1,0.03,0.2,0.023,4,19
@@ -5391,7 +5391,7 @@ Cereal Grains and Pasta,"Wheat flour, white (industrial), 13% protein, bleached,
 Cereal Grains and Pasta,"Wheat flour, white (industrial), 13% protein, bleached, unenriched",13.07,72.2,2.4,1.1,1.38,0.189,24,2
 Cereal Grains and Pasta,"Wheat flour, white (industrial), 15% protein, bleached, enriched",15.33,69.88,2.4,0.92,1.41,0.272,17,2
 Cereal Grains and Pasta,"Wheat flour, white (industrial), 15% protein, bleached, unenriched",15.33,69.88,2.4,0.92,1.41,0.272,17,2
-Cereal Grains and Pasta,Millet flour,10.75,75.12,3.5,1.66,4.25,0.536,14,4
+Cereal Grains and Pasta,"Millet flour",10.75,75.12,3.5,1.66,4.25,0.536,14,4
 Cereal Grains and Pasta,"Sorghum flour, whole-grain",8.43,76.64,6.6,1.94,3.34,0.528,12,3
 Beef Products,"Beef, shoulder pot roast or steak, boneless, separable lean and fat, trimmed to 0"" fat, all grades, raw",21.39,0,0,0,4.97,2.033,12,72
 Beef Products,"Beef, short loin, porterhouse steak, separable lean and fat, trimmed to 1/8"" fat, all grades, raw",20.49,0,0,0,14.06,5.981,19,48
@@ -6051,8 +6051,8 @@ Snacks,Rice crackers,10,82.64,0,0,5,0,0,233
 "Soups, Sauces, and Gravies","CAMPBELL'S Red and White, PHINEAS and FERB Soup, condensed",2.38,8.73,0.8,0.79,1.59,0.397,16,627
 "Soups, Sauces, and Gravies","CAMPBELL'S Homestyle Microwaveable Bowls, HEALTHY REQUEST Italian Wedding Soup",2.45,5.31,0.8,1.63,1.02,0.408,16,167
 "Soups, Sauces, and Gravies","CAMPBELL'S Homestyle Microwaveable Bowls, HEALTHY REQUEST Mexican Style Tortilla",2.86,7.76,1.2,1.22,1.02,0.204,16,167
-"Soups, Sauces, and Gravies",CAMPBELL'S Homestyle Harvest Tomato with Basil Soup,0.82,9.39,0.8,6.53,0.41,0.204,8,322
-"Soups, Sauces, and Gravies",CAMPBELL'S Homestyle HEALTHY REQUEST Chicken with Whole Grain Pasta Soup,3.8,4.28,0.7,0.32,0.82,0.204,11,167
+"Soups, Sauces, and Gravies","CAMPBELL'S Homestyle Harvest Tomato with Basil Soup",0.82,9.39,0.8,6.53,0.41,0.204,8,322
+"Soups, Sauces, and Gravies","CAMPBELL'S Homestyle HEALTHY REQUEST Chicken with Whole Grain Pasta Soup",3.8,4.28,0.7,0.32,0.82,0.204,11,167
 "Soups, Sauces, and Gravies","CAMPBELL'S Soup on the GO, HEALTHY REQUEST Chicken with Mini Noodles Soup",0.98,2.62,0.7,0.66,0.66,0.164,7,134
 "Soups, Sauces, and Gravies","CAMPBELL'S Soup on the Go, HEALTHY REQUEST Classic Tomato Soup",0.98,9.18,0.7,5.57,0,0,7,134
 "Soups, Sauces, and Gravies","PACE, Pico De Gallo",0,9.38,NULL,6.25,0,0,0,469
@@ -6085,7 +6085,7 @@ Snacks,Rice crackers,10,82.64,0,0,5,0,0,233
 "Soups, Sauces, and Gravies","Gravy, HEINZ Home Style, classic chicken",0.67,5.01,NULL,0,2.57,0.656,10,372
 "Soups, Sauces, and Gravies","Soup, beef barley, ready to serve",2.81,7.94,0.9,1.22,0.96,0.329,11,297
 "Soups, Sauces, and Gravies","Sauce, enchilada, red, mild, ready to serve",0.62,4.87,0.5,1.83,0.91,0.111,7,547
-"Soups, Sauces, and Gravies",Wasabi,2.23,46.13,6.1,13.2,10.9,2.031,41,3390
+"Soups, Sauces, and Gravies","Wasabi",2.23,46.13,6.1,13.2,10.9,2.031,41,3390
 "Soups, Sauces, and Gravies","Dip, bean, original flavor",5.44,15.89,4.9,0.99,3.7,0.529,26,443
 "Soups, Sauces, and Gravies","Sauce, horseradish",1.09,10.05,1,8.98,50.89,8.233,12,730
 "Soups, Sauces, and Gravies","Sauce, OLD EL PASO, enchilada, red, mild, ready to serve",0.59,5.04,0.6,2.17,0.67,0.1,6,543
@@ -6094,7 +6094,7 @@ Vegetables and Vegetable Products,"CAMPBELL'S, Tomato juice",0.82,4.12,0.8,2.88,
 Vegetables and Vegetable Products,"CAMPBELL'S, Tomato juice, low sodium",0.82,4.12,0.8,2.88,0,0,8,58
 Vegetables and Vegetable Products,"CAMPBELL'S, V8 Vegetable Juice, Organic V8",0.41,4.53,0.8,3.29,0,0,8,198
 Vegetables and Vegetable Products,"CAMPBELL'S, Organic Tomato juice",0.82,4.12,0.8,2.88,0,0,8,280
-Vegetables and Vegetable Products,HEALTHY REQUEST Tomato juice,0.82,4.53,0.8,3.7,0,0,8,198
+Vegetables and Vegetable Products,"HEALTHY REQUEST Tomato juice",0.82,4.53,0.8,3.7,0,0,8,198
 Vegetables and Vegetable Products,"CAMPBELL'S, V8 100% Vegetable Juice",0.82,4.12,0.8,3.29,0,0,16,173
 Vegetables and Vegetable Products,"CAMPBELL'S, V8 Vegetable Juice, Essential Antioxidants V8",0.82,4.53,0.8,3.29,0,0,16,198
 Vegetables and Vegetable Products,"CAMPBELL'S, V8 Vegetable Juice, Calcium Enriched V8",0.82,4.53,0.8,3.29,0,0,123,198
@@ -6229,7 +6229,7 @@ Legumes and Legume Products,"Chicken, meatless",23.64,3.64,3.6,0,12.73,1.534,35,
 Legumes and Legume Products,"Frankfurter, meatless",19.61,7.7,3.9,0,13.73,1.653,33,471
 Legumes and Legume Products,"Luncheon slices, meatless",17.78,4.44,1.1,2.22,11.11,1.338,41,711
 Legumes and Legume Products,"Meatballs, meatless",21,8,4.6,1.25,9,1.425,25,550
-Legumes and Legume Products,Vegetarian fillets,23,9,6.1,0.8,18,2.849,95,490
+Legumes and Legume Products,"Vegetarian fillets",23,9,6.1,0.8,18,2.849,95,490
 Legumes and Legume Products,"Sandwich spread, meatless",8,9,3.3,1.9,9,1.425,44,630
 Legumes and Legume Products,Vegetarian meatloaf or patties,21,8,4.6,1.2,9,1.425,29,550
 Vegetables and Vegetable Products,"Radishes, hawaiian style, pickled",1.1,5.2,2.2,2,0.3,0.092,28,789
@@ -6305,7 +6305,7 @@ Baked Products,"Rolls, pumpernickel",10.8,51.87,5.4,0.4,2.8,0.495,67,492
 Snacks,"Snacks, corn-based, extruded, chips, unsalted",6.6,57.4,4.4,1.41,33.4,4.344,124,15
 Legumes and Legume Products,"Beans, baked, canned, no salt added",4.8,20.49,5.5,7.78,0.4,0.103,50,1
 Sweets,"Frozen novelties, juice type, juice with cream",1.41,24.11,0.1,20.61,1.41,0.705,141,42
-Legumes and Legume Products,Tofu yogurt,3.5,15.96,0.2,1.24,1.8,0.259,118,35
+Legumes and Legume Products,"Tofu yogurt",3.5,15.96,0.2,1.24,1.8,0.259,118,35
 Beverages,"Alcoholic beverage, rice (sake)",0.5,5,0,0,0,0,5,2
 Breakfast Cereals,"Millet, puffed",13,80,2.7,0.55,3.4,0.67,8,5
 Breakfast Cereals,"Cereals ready-to-eat, OAT BRAN FLAKES, HEALTH VALLEY",10,78,8,22,3,1,80,380
@@ -6340,7 +6340,7 @@ Beverages,"Beverages, Cocktail mix, non-alcoholic, concentrated, frozen",0.08,71
 Sweets,"Puddings, chocolate flavor, low calorie, regular, dry mix",10.08,74.42,10.1,0.7,3,1.578,50,3326
 Sweets,"Puddings, all flavors except chocolate, low calorie, regular, dry mix",1.6,86.04,0.9,2.9,0.1,0.018,49,1765
 Sweets,"Puddings, all flavors except chocolate, low calorie, instant, dry mix",0.81,84.66,0.8,0.9,0.9,0.099,143,3750
-Cereal Grains and Pasta,Vital wheat gluten,75.16,13.79,0.6,0,1.85,0.272,142,29
+Cereal Grains and Pasta,"Vital wheat gluten",75.16,13.79,0.6,0,1.85,0.272,142,29
 Finfish and Shellfish Products,"Frog legs, raw",16.4,0,0,0,0.3,0.076,18,58
 Finfish and Shellfish Products,"Fish, mackerel, salted",18.5,0,0,0,25.1,7.148,66,4450
 Finfish and Shellfish Products,"Mollusks, scallop, (bay and sea), cooked, steamed",20.54,5.41,0,0,0.84,0.218,10,667
