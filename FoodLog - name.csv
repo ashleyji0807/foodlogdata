@@ -749,7 +749,7 @@ foodname\ portiondesc
 \Veal, ground or patty, cooked\ medium patty (4 per pound)
 \Mock chicken legs, cooked\ ounce(s) cooked
 \Veal patty, breaded, cooked\ medium patty (4 per pound)
-\Rabbit, domestic, cooked\ thigh, cooked\
+\Rabbit, domestic, cooked\ thigh,cooked
 \Rabbit, wild, cooked\ cottontail rabbit
 \Rabbit, wild, cooked\ leg
 \Rabbit, wild, cooked\ snowshoe rabbit
@@ -873,7 +873,7 @@ foodname\ portiondesc
 \Chicken, wing, baked, breaded, skin/breading not eaten\ medium wing
 \Chicken, back, cooked\ medium back
 \Chicken, neck or ribs, cooked\ neck
-\Chicken skin, roasted\ ounce, cooked\
+\Chicken skin, roasted\ ounce,cooked
 \Chicken, canned\ cup
 \Chicken patty, chicken fillet, or chicken tenders, breaded, cooked (Banquet, Burger King, Weaver, KFC, Tyson, McDonald's)\ patty (2.7 oz)
 \Chicken patty, chicken fillet, or chicken tenders, breaded, cooked (Banquet, Burger King, Weaver, KFC, Tyson, McDonald's)\ strip
@@ -2043,7 +2043,7 @@ foodname\ portiondesc
 \Italian Wedding Soup\ cup
 \Pork and vegetable soup with potatoes, stew type, chunky style\ cup
 \Scotch broth (lamb, vegetables, and barley)\ cup
-\Broth, chicken, condensed, prepared\ cup
+\Broth, chicken, condensed, prepared cup
 \Broth, chicken, homemade\ cup
 \Broth, chicken, dry (bouillon)\ cube
 \Broth, chicken, Mexican style\ cup
@@ -2076,7 +2076,7 @@ foodname\ portiondesc
 \Clam chowder, New England, prepared with milk\ cup
 \Clam chowder, New England, prepared with water\ cup
 \Clam chowder, New England, canned, reduced sodium, ready-to-serve\ cup
-\Clam chowder, New England, canned, reduced sodium, ready-to-serve\ Campbell's can (16 oz), ready-to-serve\
+\Clam chowder, New England, canned, reduced sodium, ready-to-serve\ Campbell's can (16 oz), ready-to-serve
 \Cream of crab soup, made with milk\ cup
 \Lobster bisque\ cup
 \Oyster stew\ cup
@@ -2222,7 +2222,7 @@ foodname\ portiondesc
 \Pinto beans, canned or cooked, with margarine\ cup
 \Pinto beans, canned or cooked, with vegetable shortening\ cup
 \Pinto beans, cooked from dry (with salt, no fat added)\ cup
-\Pinto beans, cooked from dry (with salt, no fat added)\ cup, refried beans\
+\Pinto beans, cooked from dry (with salt, no fat added)\ cup, refried beans
 \Kidney beans, canned or cooked, with vegetable oil\ cup
 \Kidney beans, canned or cooked, with animal fat\ cup
 \Kidney beans, canned or cooked, with margarine\ cup
@@ -2281,7 +2281,7 @@ foodname\ portiondesc
 \Lentil loaf\ slice (3/4"" thick)
 \Stewed pigeon peas, Puerto Rican style\ cup
 \Soy nuts\ cup
-\Soy nuts,package (4.75 oz)
+\Soy nuts\ package (4.75 oz)
 \Soy chips,bag (1.3 oz)
 \Soybean curd cheese\ cup
 \Miso sauce\ tablespoon
@@ -2357,7 +2357,7 @@ foodname\ portiondesc
 \Meat loaf or patties, vegetarian (made with meat substitute)\ slice
 \Bouillon, vegetarian, dry\ cube
 \Soyburger, meatless, with cheese on bun\ sandwich
-\Almonds, raw\ cup, ground\
+\Almonds, raw\ cup, ground
 \Almonds, raw\ cup, sliced, blanched\
 \Almonds, raw\ cup, sliced, unblanched\
 \Almonds, raw\ cup, slivered, blanched\
@@ -2377,12 +2377,12 @@ foodname\ portiondesc
 \Coconut meat, fresh\ cup, shredded
 \Coconut meat, fresh\ medium
 \Coconut meat, fresh\ piece (2"" x 2"" x 1/2"")
-\Coconut meat, dried, sweetened\ cup, flaked\
+\Coconut meat, dried, sweetened\ cup, flaked
 \Coconut meat, dried, sweetened\ cup, shredded
 \Coconut meat, dried, sweetened\ ounce(s)
-\Filberts, hazelnuts\ cup, chopped\
-\Filberts, hazelnuts\ cup, ground\
-\Filberts, hazelnuts\ cup, whole\
+\Filberts, hazelnuts\ cup, chopped
+\Filberts, hazelnuts\ cup, ground
+\Filberts, hazelnuts\ cup, whole
 \Filberts, hazelnuts\ portion (10 nuts)
 \Macadamia nuts, unroasted\ ounce (11 nuts)
 \Macadamia nuts, roasted\ ounce (11 nuts)
@@ -2392,14 +2392,14 @@ foodname\ portiondesc
 \Mixed nuts, honey-roasted, with peanuts\ portion (10 nuts)
 \Peanuts, boiled\ ounce(s), in shell
 \Peanuts, boiled\ ounce(s), shelled\
-\Peanuts, roasted, salted\ ounce(s), in shell (23 peanuts)\
-\Peanuts, roasted, salted\ ounce(s), shelled (32 peanuts)\
-\Peanuts, roasted, without salt\ ounce(s), in shell (23 peanuts)\
-\Peanuts, roasted, without salt\ ounce(s), shelled (32 peanuts)\
+\Peanuts, roasted, salted\ ounce(s), in shell (23 peanuts)
+\Peanuts, roasted, salted\ ounce(s), shelled (32 peanuts)
+\Peanuts, roasted, without salt\ ounce(s), in shell (23 peanuts)
+\Peanuts, roasted, without salt\ ounce(s), shelled (32 peanuts)
 \Peanuts, dry roasted, salted\ cup
 \Peanuts, dry roasted, without salt\ cup
 \Peanuts, honey-roasted\ ounce (35 nuts)
-\Pecans,ounce (20 halves)
+\Pecans\ ounce (20 halves)
 \Pine nuts\ portion (10 nuts)
 \Walnuts\ ounce (14 halves)
 \Walnuts, honey-roasted\ ounce (8 halves)
@@ -2439,9 +2439,9 @@ foodname\ portiondesc
 \Sesame sauce\ tablespoon
 \Sesame paste (sesame butter made from whole seeds)\ tablespoon
 \Tahini (sesame butter made from kernels)\ tablespoon
-\Flax seeds\ tablespoon, ground\
+\Flax seeds\ tablespoon, ground
 \Flax seeds\ tablespoon
-\Psyllium seed, husks\ cup, ground\
+\Psyllium seed, husks\ cup, ground
 \Psyllium seed, husks\ cup, husks\
 \Psyllium seed, husks\ tablespoon
 \Mixed seeds (pumpkin and sunflower seeds)\ tablespoon
@@ -2456,7 +2456,7 @@ foodname\ portiondesc
 \Bread, Cuban\ medium slice
 \Bread, French or Vienna\ medium slice
 \Focaccia, Italian flatbread, plain\ slice
-\Naan, Indian flatbread\ piece (1/4 of 10"" flatbread)\
+\Naan, Indian flatbread\ piece (1/4 of 10"" flatbread)
 \Bread, Italian\ medium slice
 \Bread, cheese\ slice
 \Bread, cinnamon\ slice
@@ -2780,9 +2780,9 @@ foodname\ portiondesc
 \Cake, yellow, no icing, homemade or purchased\ piece (1/10 of 1-layer cake)
 \Cake, yellow, with icing, from mix\ piece (1/10 of 1-layer cake)
 \Cake, yellow, with icing, homemade or purchased\ piece (1/10 of 1-layer cake)
-\Shortcake, biscuit type, with whipped cream and fruit\ biscuit (2"" across) with fruit and whipped cream\
+\Shortcake, biscuit type, with whipped cream and fruit\ biscuit (2"" across) with fruit and whipped cream
 \Shortcake, biscuit type, with fruit\ biscuit (2"" across) with fruit\
-\Shortcake, sponge type, with whipped cream and fruit\ cake (3"" across) with fruit and whipped cream\
+\Shortcake, sponge type, with whipped cream and fruit\ cake (3"" across) with fruit and whipped cream
 \Shortcake, sponge type, with fruit\ cake (3"" across) with fruit\
 \Cake, zucchini, no icing\ piece (1/10 of 1-layer cake)
 \Cake, zucchini, with icing\ piece (1/10 of 1-layer cake)
@@ -3030,7 +3030,7 @@ foodname\ portiondesc
 \Pie, coconut cream, individual size or tart\ tart
 \Pie, custard\ piece (1/8 of 9"" pie)
 \Pie, custard, individual size or tart\ tart
-Mixed fruit tart filled with custard or cream cheese\ piece (1/8 of 9"" tart)\
+\Mixed fruit tart filled with custard or cream cheese\ piece (1/8 of 9"" tart)
 \Pie, lemon cream\ piece (1/8 of 9"" pie)
 \Pie, lemon cream, individual size or tart\ tart
 \Pie, peanut butter cream\ piece (1/8 of 9"" pie)
@@ -3086,9 +3086,9 @@ Mixed fruit tart filled with custard or cream cheese\ piece (1/8 of 9"" tart)\
 \Cream puff or eclair, custard or cream filled, not iced\ eclair (5"" x 2"" x 1-3/4"")
 \Cream puff or eclair, custard or cream filled, iced\ cream puff (3-1/2"" x 2"")
 \Cream puff or eclair, custard or cream filled, iced\ eclair (5"" x 2"" x 1-3/4"")
-\Cream puff or eclair, custard or cream filled, iced\ eclair, frozen\
+\Cream puff or eclair, custard or cream filled, iced\ eclair, frozen
 \Cream puff or eclair, custard or cream filled, iced\ Tasty-Klair pie
-\Cream puff or eclair, custard or cream filled, iced, reduced fat\ eclair, frozen\
+\Cream puff or eclair, custard or cream filled, iced, reduced fat\ eclair, frozen
 \Cream puff, no filling or icing\ cream puff
 \Fritter or fried puff, air filed,without syrup, Puerto Rican style \ portion (2 puffs)
 \Sopaipilla, without syrup or honey\ sopaipilla (1 1/2"" x 1 1/2"")
@@ -3173,9 +3173,9 @@ Mixed fruit tart filled with custard or cream cheese\ piece (1/8 of 9"" tart)\
 \Kellogg's Nutri-Grain Yogurt Bar\ bar (1.3 oz)
 \Kellogg's Nutri-Grain Fruit and Nut Bar\ bar (1.1 oz)
 \Breakfast bar, date, with yogurt coating (Jenny'sCuisine Breakfast Bar)\ bar (1.6 oz)
-\Milk \n Cereal bar\ bar (1.4 oz)
-\Milk \n Cereal bar\ Kellogg's bar
-\Milk \n Cereal bar\ General Mills bar
+\Milk 'n Cereal bar\ bar (1.4 oz)
+\Milk 'n Cereal bar\ Kellogg's bar
+\Milk 'n Cereal bar\ General Mills bar
 \Kellogg's Special K bar\ bar (.8 oz)
 \Kashi GOLEAN Chewy Bars\ bar (2.8 oz)
 \Kashi TLC Chewy Granola Bar\ bar (1.2 oz)
@@ -3386,7 +3386,7 @@ Mixed fruit tart filled with custard or cream cheese\ piece (1/8 of 9"" tart)\
 \Snack mix (party mix), multigrain, pretzels, cereal , nuts (Chex mix)\ cup, Pepperidge Farm Snack Mix
 \Snack mix (party mix), Asian, peanuts, sesame sticks, chili rice crackers, fried green peas\ cup
 \Snack mix, multigrain, bread sticks, sesame nuggets, pretzels, rye chips (Gardetto's snack mix)\ single serving bag (1-3/4 oz)
-Yogurt chips,ounce(s)
+\Yogurt chips\ ounce(s)
 \Pancakes, plain\ medium (5"" across)
 \Pancakes, reduced calorie, high fiber\ pancake (4"" across)
 \Pancakes, plain, fat free\ medium (5"" across)
@@ -3484,13 +3484,13 @@ Yogurt chips,ounce(s)
 \Oatmeal, regular, cooked (with salt and margarine)\ cup
 \Oatmeal, quick, cooked (with salt and margarine)\ cup
 \Oatmeal, instant, cooked (with margarine)\ cup
-\Oatmeal, instant, cooked (with margarine)\ fruit-flavored packet, prepared\
-\Oatmeal, instant, cooked (with margarine)\ plain packet, prepared\
-\Oatmeal, instant, cooked (with margarine)\ sugar/spice packet, prepared\
+\Oatmeal, instant, cooked (with margarine)\ fruit-flavored packet, prepared
+\Oatmeal, instant, cooked (with margarine)\ plain packet, prepared
+\Oatmeal, instant, cooked (with margarine)\ sugar/spice packet, prepared
 \Oatmeal, instant, cooked (with milk and margarine)\ cup
-\Oatmeal, instant, cooked (with milk and margarine)\ fruit-flavored packet, prepared\
-\Oatmeal, instant, cooked (with milk and margarine)\ plain packet, prepared\
-\Oatmeal, instant, cooked (with milk and margarine)\ sugar/spice packet, prepared\
+\Oatmeal, instant, cooked (with milk and margarine)\ fruit-flavored packet, prepared
+\Oatmeal, instant, cooked (with milk and margarine)\ plain packet, prepared
+\Oatmeal, instant, cooked (with milk and margarine)\ sugar/spice packet, prepared
 \Oatmeal with maple flavor, cooked\ cup
 \Oatmeal with fruit, cooked\ cup
 \Oatmeal, multigrain, cooked (with salt, no fat added)\ cup
@@ -3519,9 +3519,9 @@ Yogurt chips,ounce(s)
 \Cream of wheat, quick, cooked (with salt, no fat added)\ cup
 \Cream of wheat, quick, cooked (with salt and milk, no fat added)\ cup
 \Cream of wheat, instant, cooked (no fat added)\ cup
-\Cream of wheat, instant, cooked (no fat added)\ packet (1 oz), prepared\
+\Cream of wheat, instant, cooked (no fat added)\ packet (1 oz), prepared
 \Cream of wheat, instant, cooked (with milk, no fat added)\ cup
-\Cream of wheat, instant, cooked (with milk, no fat added)\ packet (1 oz), prepared\
+\Cream of wheat, instant, cooked (with milk, no fat added)\ packet (1 oz), prepared
 \Cream of wheat, instant, cooked (with margarine)\ cup
 \Cream of wheat, instant, cooked (with milk and margarine)\ cup
 \Bulgur (wheat pilaf), cooked (with salt, no fat added)\ cup
@@ -3739,11 +3739,11 @@ Yogurt chips,ounce(s)
 \Wheat bran, unprocessed\ cup
 \Oats, uncooked\ cup
 \Oat bran, uncooked\ cup
-Rice polishings\ cup
+\Rice polishings\ cup
 \Rice bran, uncooked\ cup
 \Rice bran, uncooked\ teaspoon
 \Whole wheat, cracked\ cup
-Burrito with beef\ medium burrito
+\Burrito with beef\ medium burrito
 \Burrito with beef, beans, and cheese\ medium burrito
 \Burrito with beef, beans, cheese, and sour cream\ medium burrito
 \Burrito with beef, beans, cheese, and sour cream\ Taco Bell burrito
@@ -3771,7 +3771,7 @@ Burrito with beef\ medium burrito
 \Enchilada with chicken, red sauce\ enchilada
 \Enchilada with chicken and beans, red sauce\ enchilada
 \Enchilada with chicken, beans, and cheese, red sauce\ enchilada
-\Enchilada with chicken, beans, and cheese, red sauce\ package, Jenny'sCuisine Mexican Style Sauce with Chicken Enchiladas\
+\Enchilada with chicken, beans, and cheese, red sauce\ package, Jenny'sCuisine Mexican Style Sauce with Chicken Enchiladas
 \Enchilada with chicken and cheese, red sauce\ enchilada
 \Enchilada with beans, red sauce\ enchilada
 \Enchilada with beans and cheese, red sauce\ enchilada
@@ -3795,7 +3795,7 @@ Burrito with beef\ medium burrito
 \Taco, with beef, beans, cheese, lettuce and salsa\ taco or tostada
 \Taco, with beef, beans, cheese, lettuce and salsa\ Taco Bell tostada
 \Taco, with beef, beans, cheese, lettuce and salsa\ Mexican pizza
-\Hamburger Helper Taco Bake (ground beef with tomato sauce and taco seasonings on a cornbread crust)\ piece (1/6 of 9"" x 13"" pan)\
+\Hamburger Helper Taco Bake (ground beef with tomato sauce and taco seasonings on a cornbread crust)\ piece (1/6 of 9"" x 13"" pan)
 \Frito Pie with beans (Mexican casserole with ground beef, beans, tomato sauce, cheese, taco seasonings, and corn chips)\ cup
 \Frito Pie without beans  (Mexican casserole with ground beef, tomato sauce, cheese, taco seasonings, and corn chips)\ cup
 \Taco salad, with corn chips, with beef and cheese\ salad
@@ -3844,79 +3844,79 @@ Burrito with beef\ medium burrito
 \Pupusa, bean-filled\ pupusa (5"" across)
 \Pupusa, meat-filled\ pupusa (5"" across)
 \Pizza, cheese, prepared from frozen, thin crust\ school personal size pizza
-\Pizza, cheese, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)\
+\Pizza, cheese, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)
 \Pizza, cheese, prepared from frozen, thick crust\ French bread pizza
 \Pizza, cheese, prepared from frozen, thick crust\ school personal size pizza
-\Pizza, cheese, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)\
+\Pizza, cheese, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)
 \Pizza, cheese, thin crust\ Weight Watchers pizza
-\Pizza, cheese, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, cheese, regular crust\ slice (1/8 of 14"" pizza)\
+\Pizza, cheese, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, cheese, regular crust\ slice (1/8 of 14"" pizza)
 \Pizza, cheese, thick crust\ Bagel Bite
 \Pizza, cheese, thick crust\ French bread pizza
 \Pizza, cheese, thick crust\ portion (1/2 English muffin)
-\Pizza, cheese, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra cheese, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra cheese, regular crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra cheese, thick crust\ slice (1/8 of 14"" pizza)\
+\Pizza, cheese, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with extra cheese, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, with extra cheese, regular crust\ slice (1/8 of 14"" pizza)
+\Pizza, with extra cheese, thick crust\ slice (1/8 of 14"" pizza)
 \Pizza, with vegetables, prepared from frozen, thin crust\ school personal size pizza
-\Pizza, with vegetables, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with vegetables, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)
 \Pizza, with vegetables, prepared from frozen, thick crust\ French bread pizza
 \Pizza, with vegetables, prepared from frozen, thick crust\ school personal size pizza
-\Pizza, with vegetables, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with vegetables, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with vegetables, regular crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with vegetables, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with vegetables, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, with vegetables, regular crust\ slice (1/8 of 14"" pizza)
 \Pizza, with vegetables, thick crust\ French bread pizza
 \Pizza, with vegetables, thick crust\ Jenny'sCuisine Pizza Puff
-\Pizza, with vegetables, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra vegetables, thin crust (Veggie Lovers, Vegi Feast)\ slice (1/8 of 14"" pizza)\
-\Pizza, with  extra vegetables, regular crust (Veggie Lovers, Vegi Feast)\ slice (1/8 of 14"" pizza)\
-\Pizza, with  extra vegetables, thick crust (Veggie Lovers, Vegi Feast)\ slice (1/8 of 14"" pizza)\
-\Pizza, with pineapple thick crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with vegetables, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with extra vegetables, thin crust (Veggie Lovers, Vegi Feast)\ slice (1/8 of 14"" pizza)
+\Pizza, with  extra vegetables, regular crust (Veggie Lovers, Vegi Feast)\ slice (1/8 of 14"" pizza)
+\Pizza, with  extra vegetables, thick crust (Veggie Lovers, Vegi Feast)\ slice (1/8 of 14"" pizza)
+\Pizza, with pineapple thick crust\ slice (1/8 of 14"" pizza)
 \Pizza, with meat, prepared from frozen, thin crust\ school personal size pizza
-\Pizza, with meat, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with meat, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)
 \Pizza, with meat, prepared from frozen, thick crust\ French bread pizza
 \Pizza, with meat, prepared from frozen, thick crust\ school personal size pizza
-\Pizza, with meat, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with pepperoni, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with pepperoni, regular crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with meat, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with pepperoni, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, with pepperoni, regular crust\ slice (1/8 of 14"" pizza)
 \Pizza, with pepperoni, thick crust\ Bagel Bite
 \Pizza, with pepperoni, thick crust\ portion (1/2 English muffin)
-\Pizza, with pepperoni, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with meat, no pepperoni, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with meat, no pepperoni, regular crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with pepperoni, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with meat, no pepperoni, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, with meat, no pepperoni, regular crust\ slice (1/8 of 14"" pizza)
 \Pizza, with meat, no pepperoni, thick crust\ Bagel Bite
 \Pizza, with meat, no pepperoni, thick crust\ portion (1/2 English muffin)
-\Pizza, with meat, no pepperoni, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra meat, thin crust (Meat lovers, Meatzza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra meat, regular crust (Meat lovers, Meatzza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra meat, thick crust (Meat lovers, Meatzza)\ slice (1/8 of 14"" pizza)\
+\Pizza, with meat, no pepperoni, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with extra meat, thin crust (Meat lovers, Meatzza)\ slice (1/8 of 14"" pizza)
+\Pizza, with extra meat, regular crust (Meat lovers, Meatzza)\ slice (1/8 of 14"" pizza)
+\Pizza, with extra meat, thick crust (Meat lovers, Meatzza)\ slice (1/8 of 14"" pizza)
 \Pizza, with meat and vegetables, prepared from frozen, thin crust\ school personal size pizza
-\Pizza, with meat and vegetables, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with meat and vegetables, prepared from frozen, thin crust\ slice (1/8 of 14"" pizza)
 \Pizza, with meat and vegetables, prepared from frozen, thick crust\ school personal size pizza
-\Pizza, with meat and vegetables, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with meat and vegetables, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with meat and vegetables, regular crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with meat and vegetables, prepared from frozen, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with meat and vegetables, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, with meat and vegetables, regular crust\ slice (1/8 of 14"" pizza)
 \Pizza, with meat and vegetables, thick crust\ French bread pizza
-\Pizza, with meat and vegetables, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra meat and extra vegetables, thin crust (Supreme Pizza, Extravaganzza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra meat and extra vegetables, thick crust (Supreme Pizza, Extravaganzza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with extra meat and extra vegetables, regular crust (Supreme Pizza, Extravaganzza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with ham and pineapple, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with ham and pineapple, regular crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with ham and pineapple, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with beans and vegetables, thin crust (Pizza Hut Taco Pizza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with beans and vegetables, regular crust (Pizza Hut Taco Pizza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with beans and vegetables, thick crust (Pizza Hut Taco Pizza)\ slice (1/8 of 14"" pizza)\
-\Pizza, with seafood, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with seafood, regular crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with seafood, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, no cheese, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, no cheese, regular crust\ slice (1/8 of 14"" pizza)\
+\Pizza, with meat and vegetables, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with extra meat and extra vegetables, thin crust (Supreme Pizza, Extravaganzza)\ slice (1/8 of 14"" pizza)
+\Pizza, with extra meat and extra vegetables, thick crust (Supreme Pizza, Extravaganzza)\ slice (1/8 of 14"" pizza)
+\Pizza, with extra meat and extra vegetables, regular crust (Supreme Pizza, Extravaganzza)\ slice (1/8 of 14"" pizza)
+\Pizza, with ham and pineapple, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, with ham and pineapple, regular crust\ slice (1/8 of 14"" pizza)
+\Pizza, with ham and pineapple, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, with beans and vegetables, thin crust (Pizza Hut Taco pizza) slice (1/8 of 14"" pizza)
+\Pizza, with beans and vegetables, regular crust (Pizza Hut Taco pizza) slice (1/8 of 14"" pizza)
+\Pizza, with beans and vegetables, thick crust (Pizza Hut Taco pizza) slice (1/8 of 14"" pizza)
+\Pizza, with seafood, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, with seafood, regular crust\ slice (1/8 of 14"" pizza)
+\Pizza, with seafood, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, no cheese, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, no cheese, regular crust\ slice (1/8 of 14"" pizza)
 \Pizza, no cheese, thick crust\ French bread pizza
-\Pizza, no cheese, thick crust\ slice (1/8 of 14"" pizza)\
-\Pizza, white, thin crust\ slice (1/8 of 14"" pizza)\
-\Pizza, white, regular crust\ slice (1/8 of 14"" pizza)\
-\Pizza, white, thick crust\ slice (1/8 of 14"" pizza)\
+\Pizza, no cheese, thick crust\ slice (1/8 of 14"" pizza)
+\Pizza, white, thin crust\ slice (1/8 of 14"" pizza)
+\Pizza, white, regular crust\ slice (1/8 of 14"" pizza)
+\Pizza, white, thick crust\ slice (1/8 of 14"" pizza)
 \Calzone, with cheese, meatless (stromboli)\ calzone or stromboli
 \Calzone, with meat and cheese (stromboli)\ Calizza
 \Calzone, with meat and cheese (stromboli)\ calzone or stromboli
@@ -3930,7 +3930,7 @@ Burrito with beef\ medium burrito
 \Egg roll, with shrimp (spring roll)\ egg roll
 \Egg roll, with beef and/or pork (spring roll)\ egg roll
 \Egg roll, with chicken or turkey (spring roll)\ egg roll
-\Summer roll with meat or shrimp, vegetables and rice paper (Vietnamese Bo Bia Roll)\ roll (4-1/4"" x 1-1/2"" dia)\
+\Summer roll with meat or shrimp, vegetables and rice paper (Vietnamese Bo Bia Roll)\ roll (4-1/4"" x 1-1/2"" dia)
 \Wonton, fried, meat (potsticker)\ pot sticker
 \Wonton, fried, meat (potsticker)\ wonton
 \Wonton, fried, vegetable (potsticker)\ pot sticker
@@ -3945,7 +3945,7 @@ Burrito with beef\ medium burrito
 \Cornmeal fritter, Puerto Rican style \ fritter (2-1/2"" x 2-1/2"" x 1/4"")
 \Codfish fritter, Puerto Rican style \ fritter (3-1/2"" x 3-1/2"")
 \Crepe, filled with meat, fish, or poultry, with sauce\ crepe with filling, with sauce\
-\Crepe, filled with meat, fish or poultry, no sauce \ crepe with filling, no sauce\
+\Crepe, filled with meat, fish or poultry, no sauce \ crepe with filling, no sauce
 \Dumpling, meat-filled (pierogi)\ dumpling
 \Dumpling, meat-filled (pierogi)\ pierogi
 \Dumpling, potato- or cheese-filled (pierogi)\ dumpling
@@ -3968,13 +3968,13 @@ Burrito with beef\ medium burrito
 \Turnover, meat and cheese (Hot Pockets Ham & Cheddar)\ Hot Pockets Beef & Cheddar
 \Turnover, meat and cheese (Hot Pockets Ham & Cheddar)\ Hot Pockets Ham \n Cheese
 \Turnover, meat and cheese (Hot Pockets Ham & Cheddar)\ turnover
-\Turnover, meat, cheese and tomato sauce (Hot Pockets Pizza)\ Hot Pockets Pepperoni Pizza
-\Turnover, meat, cheese and tomato sauce (Hot Pockets Pizza)\ Hot Pocket Sausage Pizza
-\Turnover, meat, cheese and tomato sauce (Hot Pockets Pizza)\ turnover
+\Turnover, meat, cheese and tomato sauce (Hot Pockets pizza) Hot Pockets Pepperoni Pizza
+\Turnover, meat, cheese and tomato sauce (Hot Pockets pizza) Hot Pocket Sausage Pizza
+\Turnover, meat, cheese and tomato sauce (Hot Pockets pizza) turnover
 \Turnover, chicken and cheese (Hot Pockets Chicken, Broccoli & Cheddar)\ Hot Pocket
 \Turnover, chicken and vegetable, lower in fat (Lean Pockets)\ turnover
 \Turnover, meat and cheese, lower in fat (Lean Pockets)\ turnover
-\Turnover, meat, cheese and tomato sauce, lower in fat (Lean Pockets Pizza)\ turnover
+\Turnover, meat, cheese and tomato sauce, lower in fat (Lean Pockets pizza) turnover
 \Turnover, chicken and gravy\ turnover
 \Turnover, bacon, egg and cheese (Hot Pockets)\ Hot Pocket
 \Vegetables in pastry,pastry
@@ -4198,7 +4198,7 @@ Burrito with beef\ medium burrito
 \Spanish rice, cooked with vegetable oil\ cup
 \Spanish rice, cooked with margarine\ cup
 \Spanish rice, cooked with butter\ cup
-Tabbouleh (bulgar with tomatoes and parsley)\ cup
+\Tabbouleh (bulgar with tomatoes and parsley)\ cup
 \Wrap sandwich, filled with chicken, vegetables, and rice\ sandwich
 \Wrap sandwich, filled with vegetables and rice (vegetarian wrap)\ sandwich
 \Wrap sandwich, filled with vegetables (vegetarian wrap)\ sandwich
@@ -4231,7 +4231,7 @@ Tabbouleh (bulgar with tomatoes and parsley)\ cup
 \Beef noodle soup\ cup
 \Beef rice soup\ cup
 \Beef noodle soup, home recipe\ cup
-Chicken noodle soup\ cup
+\Chicken noodle soup\ cup
 \Chicken noodle soup, canned, low sodium, ready-to-serve\ cup
 \Chicken noodle soup, home recipe\ cup
 \Chicken noodle soup, cream of\ cup
@@ -4252,7 +4252,7 @@ Chicken noodle soup\ cup
 \Noodle soup with vegetables, Asian style\ cup
 \Tortilla soup, Mexican style \ cup
 \Quinoa, cooked (no fat or salt added)\ cup
-\Quinoa, cooked (no fat or salt added)\ package (8.5 oz), precooked\
+\Quinoa, cooked (no fat or salt added)\ package (8.5 oz), precooked
 \Calamondin, raw\ fruit (1"" across)
 \Grapefruit, raw\ medium (approx 4"" across)
 \Grapefruit, canned or frozen, unsweetened\ cup
@@ -4320,7 +4320,7 @@ Chicken noodle soup\ cup
 \Banana chips\ cup (about 51 chips)
 \Currant, dried\ cup
 \Cranberries, dried\ cup
-\Date\ cup, pitted, chopped\
+\Date\ cup, pitted, chopped
 \Fig, dried, uncooked\ cup
 \Fig, dried, cooked, unsweetened\ cup
 \Fig, dried, cooked, with sugar\ cup
@@ -4339,26 +4339,26 @@ Chicken noodle soup\ cup
 \Pineapple, dried\ piece
 \Plum, dried, salted (crack seed)\ cup
 \Plum, dried, salted (crack seed)\ plum
-\Prune, dried, uncooked\ cup, pitted\
-\Prune, dried, uncooked\ cup, with pits\
+\Prune, dried, uncooked\ cup, pitted
+\Prune, dried, uncooked\ cup, with pits
 \Prune, dried, uncooked\ prune
-\Prune, dried, cooked, unsweetened\ cup, pitted\
-\Prune, dried, cooked, unsweetened\ cup, with pits\
+\Prune, dried, cooked, unsweetened\ cup, pitted
+\Prune, dried, cooked, unsweetened\ cup, with pits
 \Prune, dried, cooked, unsweetened\ prune
-\Prune, dried, cooked, with sugar\ cup, pitted\
-\Prune, dried, cooked, with sugar\ cup, with pits\
+\Prune, dried, cooked, with sugar\ cup, pitted
+\Prune, dried, cooked, with sugar\ cup, with pits
 \Prune, dried, cooked, with sugar\ prune
 \Raisin\ cup
 \Raisin\ tablespoon
 \Raisin, cooked\ cup
 \Raisin, cooked\ tablespoon
-\Tamarind pulp, dried, sweetened \ cup, pieces, without seeds\
-\Tamarind pulp, dried, sweetened \ piece, without seeds\
+\Tamarind pulp, dried, sweetened \ cup, pieces, without seeds
+\Tamarind pulp, dried, sweetened \ piece, without seeds
 \Apple, raw\ medium (2-3/4"" across)
-\Apple, stewed, unsweetened\ cup, sauce\
-\Apple, stewed, unsweetened\ cup, sliced stewed apples\
-\Apple, stewed, with sugar\ cup, sauce\
-\Apple, stewed, with sugar\ cup, sliced stewed apples\
+\Apple, stewed, unsweetened\ cup, sauce
+\Apple, stewed, unsweetened\ cup, sliced stewed apples
+\Apple, stewed, with sugar\ cup, sauce
+\Apple, stewed, with sugar\ cup, sliced stewed apples
 \Apple, stewed, with low calorie sweetener\ cup
 \Applesauce, with strawberry\ cup
 \Apple, cooked or canned, with syrup\ cup, slices
@@ -4388,32 +4388,32 @@ Chicken noodle soup\ cup
 \Banana, batter-dipped, fried\ medium
 \Cantaloupe, raw\ cup, balls\
 \Cantaloupe, frozen (balls)\ cup
-\Carambola (starfruit), raw\ cup, sliced\
+\Carambola (starfruit), raw\ cup, sliced
 \Carambola (starfruit), cooked, with sugar\ cup
 \Cassaba melon, raw\ cup
 \Cherries, maraschino\ cup
-\Cherries, sour, red, raw\ cup, pitted\
-\Cherries, sour, red, raw\ cup, with pits\
+\Cherries, sour, red, raw\ cup, pitted
+\Cherries, sour, red, raw\ cup, with pits
 \Cherry pie filling\ cup
 \Cherry pie filling, low calorie\ cup
-\Cherries, sour, red, cooked, unsweetened\ cup, pitted\
-\Cherries, sweet, raw (Queen Anne, Bing)\ cup, pitted\
-\Cherries, sweet, raw (Queen Anne, Bing)\ cup, with pits\
+\Cherries, sour, red, cooked, unsweetened\ cup, pitted
+\Cherries, sweet, raw (Queen Anne, Bing)\ cup, pitted
+\Cherries, sweet, raw (Queen Anne, Bing)\ cup, with pits
 \Cherries, sweet, raw (Queen Anne, Bing)\ cherry
-\Cherries, sweet, cooked, unsweetened\ cup, pitted\
-\Cherries, sweet, cooked, unsweetened\ cup, with pits\
+\Cherries, sweet, cooked, unsweetened\ cup, pitted
+\Cherries, sweet, cooked, unsweetened\ cup, with pits
 \Cherries, sweet, cooked, unsweetened\ cherry
-\Cherries, sweet, cooked or canned, in heavy syrup\ cup, pitted\
-\Cherries, sweet, cooked or canned, in heavy syrup\ cup, with pits\
+\Cherries, sweet, cooked or canned, in heavy syrup\ cup, pitted
+\Cherries, sweet, cooked or canned, in heavy syrup\ cup, with pits
 \Cherries, sweet, cooked or canned, in heavy syrup\ cherry
-\Cherries, sweet, cooked or canned, in light syrup\ cup, pitted\
-\Cherries, sweet, cooked or canned, in light syrup\ cup, with pits\
+\Cherries, sweet, cooked or canned, in light syrup\ cup, pitted
+\Cherries, sweet, cooked or canned, in light syrup\ cup, with pits
 \Cherries, sweet, cooked or canned, in light syrup\ cherry
-\Cherries, sweet, cooked or canned, drained solids\ cup, pitted\
-\Cherries, sweet, cooked or canned, drained solids\ cup, with pits\
+\Cherries, sweet, cooked or canned, drained solids\ cup, pitted
+\Cherries, sweet, cooked or canned, drained solids\ cup, with pits
 \Cherries, sweet, cooked or canned, drained solids\ cherry
-\Cherries, sweet, cooked or canned, juice pack\ cup, pitted\
-\Cherries, sweet, cooked or canned, juice pack\ cup, with pits\
+\Cherries, sweet, cooked or canned, juice pack\ cup, pitted
+\Cherries, sweet, cooked or canned, juice pack\ cup, with pits
 \Cherries, sweet, cooked or canned, juice pack\ cherry
 \Cherries, frozen\ cup
 \Currant, raw\ cup
@@ -4422,7 +4422,7 @@ Chicken noodle soup\ cup
 \Fig, cooked or canned, in heavy syrup\ fig with liquid
 \Fig, cooked or canned, in light syrup\ fig with liquid
 \Grape, raw\ cup, seedless\
-\Grape, raw\ cup, with seeds\
+\Grape, raw\ cup, with seeds
 \Grape, cooked or canned, unsweetened\ cup
 \Grape, cooked or canned, in heavy syrup\ cup
 \Guava, raw\ cup common guava
@@ -4491,7 +4491,7 @@ Chicken noodle soup\ cup
 \Pineapple, cooked or canned, juice pack\ chunk with liquid
 \Pineapple, cooked or canned, juice pack\ slice or ring with liquid
 \Plum, raw\ plum (2-1/8"" across)
-\Plum, cooked or canned, unsweetened\ cup, pitted\
+\Plum, cooked or canned, unsweetened\ cup, pitted
 \Plum, cooked or canned, unsweetened\ plum with liquid
 \Plum, cooked or canned, in heavy syrup\ cup
 \Plum, cooked or canned, in heavy syrup\ plum with liquid
@@ -4525,8 +4525,8 @@ Chicken noodle soup\ cup
 \Blueberry pie filling\ cup
 \Boysenberries, raw\ cup
 \Boysenberries, frozen\ cup
-\Cranberries, raw\ cup, whole\
-\Cranberries, cooked or canned\ cup, sauce\
+\Cranberries, raw\ cup, whole
+\Cranberries, cooked or canned\ cup, sauce
 \Cranberries, cooked or canned\ tablespoon
 \Cranberries, cooked or canned\ slice (1/2"" thick)
 \Dewberries, raw\ cup
@@ -4539,11 +4539,11 @@ Chicken noodle soup\ cup
 \Raspberries, cooked or canned, unsweetened\ cup
 \Raspberries, cooked or canned, in heavy syrup\ cup
 \Raspberries, frozen, unsweetened\ cup
-\Raspberries, frozen, unsweetened\ cup, frozen\
+\Raspberries, frozen, unsweetened\ cup, frozen
 \Raspberries, frozen, with sugar\ cup
-\Strawberries, raw\ cup, whole\
+\Strawberries, raw\ cup, whole
 \Strawberries, raw\ medium (1-1/4"" across)
-\Strawberries, raw, with sugar\ cup, whole\
+\Strawberries, raw, with sugar\ cup, whole
 \Strawberries, raw, with sugar\ medium (1-1/4"" across)
 \Strawberries, cooked or canned, unsweetened\ cup
 \Strawberries, cooked or canned, in syrup\ cup
@@ -4553,7 +4553,7 @@ Chicken noodle soup\ cup
 \Youngberries, raw\ cup
 \Ambrosia (mixed fruit salad with coconut)\ cup
 \Cranberry-orange relish, uncooked\ tablespoon
-Cranberry-raspberry Sauce\ tablespoon
+\Cranberry-raspberry Sauce\ tablespoon
 \Fruit salad, fresh, (no citrus fruits), no dressing\ cup
 \Fruit salad, fresh, (with citrus fruits), no dressing\ cup
 \Fruit cocktail or mix, frozen\ cup
@@ -4595,8 +4595,8 @@ Cranberry-raspberry Sauce\ tablespoon
 \Chutney\ tablespoon
 \Cranberry salad, congealed\ cup
 \Pear salad with dressing\ portion (lettuce, 1/2 pear, dressing)\
-\Pineapple salad, with mayonnaise dressing\ portion (lettuce, 1 cup diced pineapple, dressing)\
-\Pineapple salad, with cream cheese\ portion (lettuce, 1 slice of pineapple, cream cheese)\
+\Pineapple salad, with mayonnaise dressing\ portion (lettuce, 1 cup diced pineapple, dressing)
+\Pineapple salad, with cream cheese\ portion (lettuce, 1 slice of pineapple, cream cheese)
 \Soup, sour cherry\ cup
 \Soup, fruit (strawberry, watermelon, etc.)\ cup
 \Fruit juice bar, frozen, all flavors (except orange)\ Dole Fruit \N Juice Bar (2.5 fl oz)
@@ -4643,8 +4643,8 @@ Cranberry-raspberry Sauce\ tablespoon
 \Vinegar, distilled\ tablespoon
 \Potato, raw\ cup, dice
 \Potato, raw\ medium (2-1/4"" to 3"" across)
-\Potato, dry, powdered, not reconstituted\ cup, flakes, dry\
-\Potato, dry, powdered, not reconstituted\ cup, granules, dry\
+\Potato, dry, powdered, not reconstituted\ cup, flakes, dry
+\Potato, dry, powdered, not reconstituted\ cup, granules, dry
 \Potato, baked, peel not eaten\ medium (2-1/4"" to 3"" across)
 \Potato, baked,  peel eaten\ medium (2-1/4"" to 3"" across)
 \Potato skins, baked, no fat added\ skin from medium potato (2-1/4"" to 3"" across)
@@ -4669,7 +4669,7 @@ Cranberry-raspberry Sauce\ tablespoon
 \Potato chips, unsalted, reduced fat\ ounce (about 20 chips)
 \Potato sticks\ single serving bag (1 oz)
 \Potato skin chips,1-inch stack
-\Potato skin chips,ounce (about 14 chips)
+\Potato skin chips\ ounce (about 14 chips)
 \Vegetable chips\ single serving bag (1 oz)
 \Potato, cooked, with cheese sauce (au gratin)\ cup
 \Potato, cooked, with cheese sauce (au gratin), no fat added\ cup
@@ -4714,7 +4714,7 @@ Cranberry-raspberry Sauce\ tablespoon
 \Hash browns, frozen potatoes\ McDonald's order
 \Hash browns, frozen potatoes\ Hardee's order
 \Hash browns, frozen potatoes\ ounce(s) frozen potatoes
-\Hash browns, dry mix, cooked\ cup, prepared\
+\Hash browns, dry mix, cooked\ cup, prepared
 \Hash browns, with cheese\ patty
 \Potato skins, fried\ skin from medium potato (2-1/4"" to 3"" across)
 \Potato skins, fried, with cheese\ order (10 halves)
@@ -4877,7 +4877,7 @@ Cranberry-raspberry Sauce\ tablespoon
 \Radicchio, raw\ leaves
 \Spinach, raw\ cup
 \Spinach, fresh, cooked (with salt, no fat added)\ cup
-\Spinach, frozen, cooked (with salt, no fat added)\ cup, chopped\
+\Spinach, frozen, cooked (with salt, no fat added)\ cup, chopped
 \Spinach, frozen, cooked (with salt, no fat added)\ cup, leaves\
 \Spinach, canned, cooked, no fat added\ cup
 \Spinach, canned, cooked, no fat added\ can
@@ -4885,15 +4885,15 @@ Cranberry-raspberry Sauce\ tablespoon
 \Spinach, fresh, cooked (with salt and vegetable oil)\ cup
 \Spinach, fresh, cooked (with salt and butter)\ cup
 \Spinach, fresh, cooked (with salt and pork fat)\ cup
-\Spinach, frozen, cooked (with salt and margarine)\ cup, chopped\
+\Spinach, frozen, cooked (with salt and margarine)\ cup, chopped
 \Spinach, frozen, cooked (with salt and margarine)\ cup, leaves\
-\Spinach, frozen, cooked (with salt and butter)\ cup, chopped\
+\Spinach, frozen, cooked (with salt and butter)\ cup, chopped
 \Spinach, frozen, cooked (with salt and butter)\ cup, leaves\
-\Spinach, frozen, cooked (with salt and vegetable oil)\ cup, chopped\
+\Spinach, frozen, cooked (with salt and vegetable oil)\ cup, chopped
 \Spinach, frozen, cooked (with salt and vegetable oil)\ cup, leaves\
-\Spinach, frozen, cooked (with salt and vegetable shortening)\ cup, chopped\
+\Spinach, frozen, cooked (with salt and vegetable shortening)\ cup, chopped
 \Spinach, frozen, cooked (with salt and vegetable shortening)\ cup, leaves\
-\Spinach, frozen, cooked (with salt and pork fat)\ cup, chopped\
+\Spinach, frozen, cooked (with salt and pork fat)\ cup, chopped
 \Spinach, frozen, cooked (with salt and pork fat)\ cup, leaves\
 \Spinach, canned, cooked with margarine\ cup
 \Spinach, canned, cooked with butter\ cup
@@ -4927,15 +4927,15 @@ Cranberry-raspberry Sauce\ tablespoon
 \Watercress, raw\ cup
 \Watercress, raw\ sprig
 \Watercress, cooked (with salt, no fat added) \ cup
-\Broccoli, raw\ cup, chopped\
-\Broccoli, fresh, cooked (with salt, no fat added) \ cup, chopped\
-\Broccoli, frozen, cooked (with salt, no fat added)\ cup, chopped\
-\Broccoli, fresh, cooked (with salt and margarine)  \ cup, chopped\
-\Broccoli, fresh, cooked (with salt and butter) \ cup, chopped\
-\Broccoli, fresh, cooked (with salt and vegetable oil\ cup, chopped\
-\Broccoli, frozen, cooked (with salt and margarine)  \ cup, chopped\
-\Broccoli, frozen, cooked (with salt and butter) \ cup, chopped\
-\Broccoli, frozen, cooked (with salt and vegetable oil)  \ cup, chopped\
+\Broccoli, raw\ cup, chopped
+\Broccoli, fresh, cooked (with salt, no fat added) \ cup, chopped
+\Broccoli, frozen, cooked (with salt, no fat added)\ cup, chopped
+\Broccoli, fresh, cooked (with salt and margarine)  \ cup, chopped
+\Broccoli, fresh, cooked (with salt and butter) \ cup, chopped
+\Broccoli, fresh, cooked (with salt and vegetable oil\ cup, chopped
+\Broccoli, frozen, cooked (with salt and margarine)  \ cup, chopped
+\Broccoli, frozen, cooked (with salt and butter) \ cup, chopped
+\Broccoli, frozen, cooked (with salt and vegetable oil)  \ cup, chopped
 \Broccoli, fresh, cooked,  with cheese sauce\ cup
 \Broccoli, frozen, cooked,  with cheese sauce\ cup
 \Broccoli casserole (broccoli, noodles, cream sauce)\ cup
@@ -4952,33 +4952,33 @@ Cranberry-raspberry Sauce\ tablespoon
 \Carrots, raw\ medium carrot
 \Carrot salad, mayonnaise dressing\ cup
 \Carrot-apple salad,  mayonnaise dressing\ cup
-\Carrots, fresh, cooked (with salt, no fat added) \ cup, sliced\
+\Carrots, fresh, cooked (with salt, no fat added) \ cup, sliced
 \Carrots, fresh, cooked (with salt, no fat added) \ baby carrot(s)
 \Carrots, fresh, cooked (with salt, no fat added) \ medium carrot (6"" to 7"" long)
-\Carrots, frozen, cooked (with salt, no fat added)\ cup, sliced\
+\Carrots, frozen, cooked (with salt, no fat added)\ cup, sliced
 \Carrots, frozen, cooked (with salt, no fat added)\ baby carrot(s)
-\Carrots, canned, cooked, no fat added\ cup, sliced\
+\Carrots, canned, cooked, no fat added\ cup, sliced
 \Carrots, canned, cooked, no fat added\ baby carrot(s)
-\Carrots, fresh, cooked (with salt and margarine)\ cup, sliced\
+\Carrots, fresh, cooked (with salt and margarine)\ cup, sliced
 \Carrots, fresh, cooked (with salt and margarine)\ baby carrot(s)
 \Carrots, fresh, cooked (with salt and margarine)\ medium carrot (6"" to 7"" long)
-\Carrots, fresh, cooked (with salt and vegetable oil) \ cup, sliced\
+\Carrots, fresh, cooked (with salt and vegetable oil) \ cup, sliced
 \Carrots, fresh, cooked (with salt and vegetable oil) \ baby carrot(s)
 \Carrots, fresh, cooked (with salt and vegetable oil) \ medium carrot (6"" to 7"" long)
-\Carrots, fresh, cooked (with salt and butter)\ cup, sliced\
+\Carrots, fresh, cooked (with salt and butter)\ cup, sliced
 \Carrots, fresh, cooked (with salt and butter)\ baby carrot(s)
 \Carrots, fresh, cooked (with salt and butter)\ medium carrot (6"" to 7"" long)
-\Carrots, frozen, cooked (with salt and margarine)\ cup, sliced\
+\Carrots, frozen, cooked (with salt and margarine)\ cup, sliced
 \Carrots, frozen, cooked (with salt and margarine)\ baby carrot(s)
-\Carrots, frozen, cooked (with salt and butter)\ cup, sliced\
+\Carrots, frozen, cooked (with salt and butter)\ cup, sliced
 \Carrots, frozen, cooked (with salt and butter)\ baby carrot(s)
-\Carrots, frozen, cooked (with salt and vegetable oil)\ cup, sliced\
+\Carrots, frozen, cooked (with salt and vegetable oil)\ cup, sliced
 \Carrots, frozen, cooked (with salt and vegetable oil)\ baby carrot(s)
-\Carrots, canned, cooked with margarine\ cup, sliced\
+\Carrots, canned, cooked with margarine\ cup, sliced
 \Carrots, canned, cooked with margarine\ baby carrot(s)
-\Carrots, canned, cooked with butter\ cup, sliced\
+\Carrots, canned, cooked with butter\ cup, sliced
 \Carrots, canned, cooked with butter\ baby carrot(s)
-\Carrots, canned, cooked with vegetable oil\ cup, sliced\
+\Carrots, canned, cooked with vegetable oil\ cup, sliced
 \Carrots, canned, cooked with vegetable oil\ baby carrot(s)
 \Carrots, fresh, cooked, creamed\ cup
 \Carrots, frozen, cooked, creamed\ cup
@@ -4998,7 +4998,7 @@ Cranberry-raspberry Sauce\ tablespoon
 \Carrots, fresh, cooked, with cheese sauce\ cup
 \Carrots, frozen, cooked, with cheese sauce\ cup
 \Carrots, canned, cooked, with cheese sauce\ cup
-\Carrots, canned, low sodium, no fat added\ cup, sliced\
+\Carrots, canned, low sodium, no fat added\ cup, sliced
 \Carrot juice\ cup
 \Peas and carrots, fresh, cooked (with salt, no fat added) \ cup
 \Peas and carrots, frozen, cooked, (with salt, no fat added)\ cup
@@ -5070,7 +5070,7 @@ Cranberry-raspberry Sauce\ tablespoon
 \Sweet potato, chips\ single serving bag (1.2 oz)
 \Carrot soup, cream of, prepared with milk\ cup
 \Tomatoes, raw\ cup, cherry tomatoes\
-\Tomatoes, raw\ cup, chopped or sliced\
+\Tomatoes, raw\ cup, chopped or sliced
 \Tomatoes, raw\ Italian or plum tomato
 \Tomatoes, raw\ cherry tomato
 \Tomatoes, raw\ medium whole (2-3/5"" across)
@@ -5144,7 +5144,7 @@ Cranberry-raspberry Sauce\ tablespoon
 \Tomato and cucumber salad, with oil, and vinegar\ cup
 \Cream of Tomato soup, prepared with milk \ cup
 \Tomato soup, prepared with water\ cup
-\Tomato soup, prepared with water\ Jenny Craig pouch (6 oz), prepared\
+\Tomato soup, prepared with water\ Jenny Craig pouch (6 oz), prepared
 \Tomato soup, canned, undiluted\ cup
 \Tomato soup, instant, prepared with water\ cup
 \Tomato soup, canned, low sodium, ready-to-serve\ cup
@@ -5154,7 +5154,7 @@ Cranberry-raspberry Sauce\ tablespoon
 \Tomato beef noodle soup, prepared with water\ cup
 \Tomato beef rice soup, prepared with water\ cup
 \Tomato noodle soup, prepared with water\ cup
-Cream of tomato noodle soup\ cup
+\Cream of tomato noodle soup\ cup
 \Tomato rice soup, prepared with water\ cup
 \Tomato vegetable soup, prepared with water\ cup
 \Tomato vegetable soup with noodles, prepared with water\ cup
@@ -5174,7 +5174,7 @@ Cream of tomato noodle soup\ cup
 \Cabbage, Chinese (Bok Choy), raw\ cup, shredded
 \Cabbage, Chinese (Bok Choy), raw\ leaves
 \Cabbage, Chinese (Bok Choy), raw\ head
-\Cabbage, red, raw\ cup, chopped\
+\Cabbage, red, raw\ cup, chopped
 \Cabbage, red, raw\ leaves
 \Cabbage, red, raw\ head, medium\
 \Cactus, raw\ cup
@@ -5200,10 +5200,10 @@ Cream of tomato noodle soup\ cup
 \Leek, raw\ cup
 \Leek, raw\ leek
 \Leek, raw\ slice
-\Lettuce, iceberg, raw\ cup, shredded or chopped\
+\Lettuce, iceberg, raw\ cup, shredded or chopped
 \Lettuce, iceberg, raw\ medium leaf
 \Lettuce, iceberg, raw\ head, medium\
-\Lettuce, butterhead (Boston or bibb), raw\ cup, shredded or chopped\
+\Lettuce, butterhead (Boston or bibb), raw\ cup, shredded or chopped
 \Lettuce, butterhead (Boston or bibb), raw\ medium leaf
 \Lettuce, butterhead (Boston or bibb), raw\ head
 \Lettuce, green or red leaf\ cup
@@ -5212,28 +5212,28 @@ Cream of tomato noodle soup\ cup
 \Lettuce, green or red leaf\ head
 \Lettuce, arugula, raw\ cup
 \Lettuce, arugula, raw\ leaves
-\Lettuce, mixed (mixed greens, salad mix, spring mix), raw\ cup, shredded or chopped\
+\Lettuce, mixed (mixed greens, salad mix, spring mix), raw\ cup, shredded or chopped
 \Mushrooms, raw\ cup, pieces or slices
-\Mushrooms, raw\ cup, whole\
-\Onion, green, raw\ cup, chopped\
+\Mushrooms, raw\ cup, whole
+\Onion, green, raw\ cup, chopped
 \Onion, green, raw\ medium (4-1/8"" long)
-\Onion, raw\ cup, chopped\
+\Onion, raw\ cup, chopped
 \Onion, raw\ medium (2-1/2"" across)
 \Onion, raw\ onion
 \Parsley, raw\ portion (10 sprigs)
 \Peas, green, raw\ cup
-\Peppers, hot chili, raw\ cup, chopped\
+\Peppers, hot chili, raw\ cup, chopped
 \Peppers, hot chili, raw\ jalapeno pepper
-\Peppers, poblano, raw\ cup, chopped\
+\Peppers, poblano, raw\ cup, chopped
 \Peppers, poblano, raw\ pepper
-\Peppers, Serrano, raw\ cup, chopped\
+\Peppers, Serrano, raw\ cup, chopped
 \Peppers, Serrano, raw\ pepper
-\Peppers, sweet, green, raw\ cup, chopped\
-\Peppers, sweet, green, raw\ cup, sliced\
+\Peppers, sweet, green, raw\ cup, chopped
+\Peppers, sweet, green, raw\ cup, sliced
 \Peppers, sweet, green, raw\ medium (2-3/4"" long, 2-1/2"" across)
 \Peppers, sweet, green, raw\ portion (10 strips)
-\Peppers, sweet, red, raw\ cup, chopped\
-\Peppers, sweet, red, raw\ cup, sliced\
+\Peppers, sweet, red, raw\ cup, chopped
+\Peppers, sweet, red, raw\ cup, sliced
 \Peppers, sweet, red, raw\ medium (2-3/4"" long, 2-1/2"" across)
 \Peppers, sweet, red, raw\ slice or ring (3"" across 1/4"" thick)
 \Peppers, banana, raw\ medium (4-1/2"" long)
@@ -5242,14 +5242,14 @@ Cream of tomato noodle soup\ cup
 \Radish, raw\ slice
 \Rutabaga, raw\ cup
 \Seaweed, raw\ cup
-\Snow peas (sugar snap peas), raw\ cup, chopped\
-\Snow peas (sugar snap peas), raw\ cup, whole\
+\Snow peas (sugar snap peas), raw\ cup, chopped
+\Snow peas (sugar snap peas), raw\ cup, whole
 \Snow peas (sugar snap peas), raw\ portion (10 pea pods)
-\Squash, yellow, raw\ cup, sliced\
+\Squash, yellow, raw\ cup, sliced
 \Squash, yellow, raw\ medium
 \Squash, yellow, raw\ slice
-\Zucchini, raw\ cup, chopped\
-\Zucchini, raw\ cup, sliced\
+\Zucchini, raw\ cup, chopped
+\Zucchini, raw\ cup, sliced
 \Zucchini, raw\ medium
 \Zucchini, raw\ slice
 \Turnip, raw\ cup, cubes\
@@ -5267,7 +5267,7 @@ Cream of tomato noodle soup\ cup
 \Coleslaw (cabbage salad), with pineapple, with mayonnaise \ cup
 \Coleslaw (cabbage salad), with pineapple, with mayonnaise-type dressing (Miracle Whip)\ cup
 \Coleslaw (cabbage salad), with pineapple, with light mayonnaise dressing\ cup
-Cucumber and vegetable namasu\ cup
+\Cucumber and vegetable namasu\ cup
 \Cucumber salad, with creamy dressing\ cup
 \Cucumber salad, with yogurt dressing\ cup
 \Cucumber salad, with oil and vinegar dressing\ cup
@@ -5287,10 +5287,10 @@ Cucumber and vegetable namasu\ cup
 \Salad, Cobb, grilled chicken, bacon, egg, blue cheese, avocado, tomato, Italian dressing\ cup
 \Algae, dried\ cup
 \Aloe vera juice\ cup
-\Artichoke, cooked, fresh (with salt, no fat added) \ cup, hearts\
-\Artichoke, cooked, fresh (with salt and margarine)\ cup, hearts\
-\Artichoke, cooked, fresh (with salt and butter)\ cup, hearts\
-\Artichoke, cooked, fresh (with salt and vegetable oil) \ cup, hearts\
+\Artichoke, cooked, fresh (with salt, no fat added) \ cup, hearts
+\Artichoke, cooked, fresh (with salt and margarine)\ cup, hearts
+\Artichoke, cooked, fresh (with salt and butter)\ cup, hearts
+\Artichoke, cooked, fresh (with salt and vegetable oil) \ cup, hearts
 \Artichoke hearts, canned in oil\ cup
 \Asparagus, cooked, fresh (with salt, no fat added)\ cup
 \Asparagus, cooked, fresh (with salt, no fat added)\ medium spear (5-1/4"" to 7"" long)
@@ -5370,9 +5370,9 @@ Cucumber and vegetable namasu\ cup
 \Bitter melon, cooked (with salt and vegetable oil)\ cup
 \Breadfruit, cooked (with salt, no fat added)\ cup
 \Breadfruit, fried\ cup
-\Broccoflower, cooked (with salt, no fat added)\ cup, flowerets\
-\Broccoflower, cooked (with salt and margarine)\ cup, flowerets\
-\Broccoflower, cooked (with salt and vegetable oil)\ cup, flowerets\
+\Broccoflower, cooked (with salt, no fat added)\ cup, flowerets
+\Broccoflower, cooked (with salt and margarine)\ cup, flowerets
+\Broccoflower, cooked (with salt and vegetable oil)\ cup, flowerets
 \Brussels sprouts, fresh, cooked (with salt, no fat added)\ cup
 \Brussels sprouts, frozen, cooked (with salt, no fat added)\ cup
 \Brussels sprouts, fresh, cooked (with salt and margarine) \ cup
@@ -5396,11 +5396,11 @@ Cucumber and vegetable namasu\ cup
 \Cabbage, savoy, cooked (with salt, no fat added)\ cup
 \Cactus, cooked (with salt, no fat added)\ cup
 \Cactus, cooked (with salt and vegetable oil)\ cup
-\Cauliflower, fresh, cooked (with salt, no fat added)\ cup, flowerets\
+\Cauliflower, fresh, cooked (with salt, no fat added)\ cup, flowerets
 \Cauliflower, frozen, cooked (with salt, no fat added)\ cup
-\Cauliflower, fresh, cooked (with salt and margarine)\ cup, flowerets\
-\Cauliflower, fresh, cooked (with salt and butter)\ cup, flowerets\
-\Cauliflower, fresh, cooked (with salt and vegetable oil) \ cup, flowerets\
+\Cauliflower, fresh, cooked (with salt and margarine)\ cup, flowerets
+\Cauliflower, fresh, cooked (with salt and butter)\ cup, flowerets
+\Cauliflower, fresh, cooked (with salt and vegetable oil) \ cup, flowerets
 \Cauliflower, frozen, cooked (with salt and margarine)\ cup
 \Cauliflower, frozen, cooked (with salt and butter)\ cup
 \Cauliflower, frozen, cooked (with salt and vegetable oil) \ cup
@@ -5596,19 +5596,19 @@ Cucumber and vegetable namasu\ cup
 \Peppers, red, cooked (with salt and butter)\ cup
 \Peppers, red, cooked (with salt and butter)\ medium pepper (2-3/4"" long, 2-1/2"" across)
 \Peppers, red, cooked (with salt and butter)\ portion (10 strips)
-\Peppers, hot, fresh, cooked (with salt, no fat added)\ cup, chopped\
+\Peppers, hot, fresh, cooked (with salt, no fat added)\ cup, chopped
 \Peppers, hot, fresh, cooked (with salt, no fat added)\ tablespoon
 \Peppers, hot, fresh, cooked (with salt, no fat added)\ pepper
 \Peppers, hot, fresh, cooked (with salt, no fat added)\ jalapeno pepper
-\Peppers, hot, canned, cooked, no fat added\ cup, chopped\
+\Peppers, hot, canned, cooked, no fat added\ cup, chopped
 \Peppers, hot, canned, cooked, no fat added\ tablespoon
 \Peppers, hot, canned, cooked, no fat added\ pepper
 \Peppers, hot, canned, cooked, no fat added\ jalapeno pepper
-\Peppers, hot, fresh, cooked (with salt and margarine)\ cup, chopped\
+\Peppers, hot, fresh, cooked (with salt and margarine)\ cup, chopped
 \Peppers, hot, fresh, cooked (with salt and margarine)\ tablespoon
 \Peppers, hot, fresh, cooked (with salt and margarine)\ pepper
 \Peppers, hot, fresh, cooked (with salt and margarine)\ jalapeno pepper
-\Peppers, hot, fresh, cooked (with salt and butter) \ cup, chopped\
+\Peppers, hot, fresh, cooked (with salt and butter) \ cup, chopped
 \Peppers, hot, fresh, cooked (with salt and butter) \ tablespoon
 \Peppers, hot, fresh, cooked (with salt and butter) \ pepper
 \Peppers, hot, fresh, cooked (with salt and butter) \ jalapeno pepper
@@ -5823,7 +5823,7 @@ Cucumber and vegetable namasu\ cup
 \Vegetable blends (medley) with pasta\ cup
 \Vegetable blends (medley) with pasta and butter sauce\ cup
 \Beans, string (green), pickled\ cup
-\Beets, pickled\ cup, sliced\
+\Beets, pickled\ cup, sliced
 \Celery, pickled\ cup
 \Corn relish\ cup
 \Cauliflower, pickled\ cup
@@ -5842,8 +5842,8 @@ Cucumber and vegetable namasu\ cup
 \Pickle, sour\ medium pickle (3-3/4"" long)
 \Pickle, sour\ slice
 \Pickle, sour\ spear
-\Pickle, sweet\ cup, chopped\
-\Pickle, sweet\ cup, sliced\
+\Pickle, sweet\ cup, chopped
+\Pickle, sweet\ cup, sliced
 \Pickle, sweet\ medium gherkin (2-3/4"" long)
 \Pickle, sweet\ midget gherkin (2-1/8"" long)
 \Pickle, sweet\ slice
@@ -5851,16 +5851,16 @@ Cucumber and vegetable namasu\ cup
 \Eggplant, pickled\ cup
 \Horseradish\ tablespoon
 \Mustard pickles\ cup
-\Pickle, dill, reduced salt\ cup, chopped\
-\Pickle, dill, reduced salt\ cup, sliced\
+\Pickle, dill, reduced salt\ cup, chopped
+\Pickle, dill, reduced salt\ cup, sliced
 \Pickle, dill, reduced salt\ cup
 \Pickle, dill, reduced salt\ medium pickle (3-3/4"" long)
 \Pickle, dill, reduced salt\ slice
 \Pickle, dill, reduced salt\ spear
 \Pickle, dill, reduced salt\ spear
-\Pickle, sweet, reduced salt\ cup, chopped\
+\Pickle, sweet, reduced salt\ cup, chopped
 \Pickle, sweet, reduced salt\ cup, chopped or dice
-\Pickle, sweet, reduced salt\ cup, sliced\
+\Pickle, sweet, reduced salt\ cup, sliced
 \Pickle, sweet, reduced salt\ medium
 \Pickle, sweet, reduced salt\ medium pickle (3-3/4"" long)
 \Pickle, sweet, reduced salt\ slice
@@ -5874,12 +5874,12 @@ Cucumber and vegetable namasu\ cup
 \Mustard sauce\ cup
 \Mustard sauce\ tablespoon
 \Okra, pickled\ pod
-\Olives, green\ cup, sliced or chopped\
-\Olives, green\ cup, whole\
+\Olives, green\ cup, sliced or chopped
+\Olives, green\ cup, whole
 \Olives, green\ giant
 \Olives, green\ medium
-\Olives, black\ cup, sliced\
-\Olives, black\ cup, whole\
+\Olives, black\ cup, sliced
+\Olives, black\ cup, whole
 \Olives, black\ Greek olive
 \Olives, black\ medium
 \Olives, green, stuffed\ cup
@@ -6128,7 +6128,7 @@ Cucumber and vegetable namasu\ cup
 \Bean paste, sweetened\ teaspoon
 \Jello (gelatin) powder, sweetened, dry\ tablespoon
 \Jello (gelatin) dessert\ cup
-\Jello (gelatin) dessert\ package (3 oz), prepared\
+\Jello (gelatin) dessert\ package (3 oz), prepared
 \Jello (gelatin) snacks\ jiggler (2"" square)
 \Jello (gelatin) dessert, with fruit\ cup
 \Jello (gelatin) dessert, with whipped cream\ cup
@@ -6168,14 +6168,14 @@ Cucumber and vegetable namasu\ cup
 \Caramel, with walnuts\ piece
 \Caramel, chocolate covered (Riesen, Russel Stover, Caramello)\ piece
 \Caramel, with nuts, chocolate covered (turtles)\ piece
-\Rolo,package (1.9 oz)
+\Rolo\ package (1.9 oz)
 \Rolo\ piece
 \Caramel, sugar free\ piece
 \Toblerone, milk chocolate with honey and almond nougat\ piece
 \Toblerone, milk chocolate with honey and almond nougat\ package (3.52 oz)
 \TWIX Caramel Cookie Bars\ package (2.06 oz, 2 bars)\
-\TWIX Chocolate Fudge Cookie Bars,package Twix Chocolate Fudge Cookie Bars (1.6 oz)
-\TWIX Chocolate Fudge Cookie Bars,package Twix Cookies-n-Creme Bars (1.6 oz)
+\TWIX Chocolate Fudge Cookie Bars\ package Twix Chocolate Fudge Cookie Bars (1.6 oz)
+\TWIX Chocolate Fudge Cookie Bars\ package Twix Cookies-n-Creme Bars (1.6 oz)
 \TWIX Peanut Butter Cookie Bars\ package (1.89 oz, 2 bars)\
 \TWIX Peanut Butter Cookie Bars\ package (2.06 oz, 2 bars)\
 \Whatchamacallit\ bar
@@ -6185,7 +6185,7 @@ Cucumber and vegetable namasu\ cup
 \Chocolate bar, milk, plain (Hershey Bar, Kiss, Nestle Bar)\ egg, hollow (2"" x 1"")
 \Chocolate bar, milk, plain (Hershey Bar, Kiss, Nestle Bar)\ egg, solid (1"" x 1/2"")
 \Chocolate bar, milk, plain (Hershey Bar, Kiss, Nestle Bar)\ ounce
-\Chocolate bar, milk, with crisped rice (Nestle Crunch, Krackle)\ cup, malted milk balls\
+\Chocolate bar, milk, with crisped rice (Nestle Crunch, Krackle)\ cup, malted milk balls
 \Chocolate bar, milk, with crisped rice (Nestle Crunch, Krackle)\ malted milk ball
 \Chocolate bar, milk, with crisped rice (Nestle Crunch, Krackle)\ malted milk egg
 \Chocolate bar, milk, with crisped rice (Nestle Crunch, Krackle)\ bar (1.6 oz)
@@ -6215,7 +6215,7 @@ Cucumber and vegetable namasu\ cup
 \Fondant candy (Candy Corn, Mentos, Mints)\ cup, mints\
 \Fondant candy (Candy Corn, Mentos, Mints)\ portion (20 pieces, candy corn)\
 \Fondant candy, chocolate covered (Cadbury Creme Egg, Peppermint Patties, Thin Mints, Junior Mints)\ cup (84 Junior Mints)
-\Fondant candy, chocolate covered (Cadbury Creme Egg, Peppermint Patties, Thin Mints, Junior Mints)\ box (1.6 oz), Junior Mints\
+\Fondant candy, chocolate covered (Cadbury Creme Egg, Peppermint Patties, Thin Mints, Junior Mints)\ box (1.6 oz), Junior Mints
 \Fondant candy, chocolate covered (Cadbury Creme Egg, Peppermint Patties, Thin Mints, Junior Mints)\ butter cream
 \Fondant candy, chocolate covered (Cadbury Creme Egg, Peppermint Patties, Thin Mints, Junior Mints)\ chocolate covered cherry
 \Fruit peel, candied\ piece
@@ -6300,18 +6300,18 @@ Cucumber and vegetable namasu\ cup
 \Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ tablespoon, tiny pieces
 \Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ barrel-shaped candy
 \Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ candy cane
-\Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ cone, cotton candy\
+\Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ cone, cotton candy
 \Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ necklace (.75 oz)
 \Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ medium piece
 \Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ Tootsie Roll Pop
-\Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ roll (1.8 oz), Sweet Tarts\
+\Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ roll (1.8 oz), Sweet Tarts
 \Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ old fashioned hard candy stick
-\Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ roll (1.1 oz, 14 pieces), Life Savers\
+\Hard candy (Jolly Rancher, Life Savers, Gob Stoppers, Lollipop) \ roll (1.1 oz, 14 pieces), Life Savers
 \Butterscotch hard candy\ piece
-\Skittles,package (2.2 oz)
-\Sugar-coated chocolate discs (Snow Caps),ounce (10 nonpareils)
+\Skittles\ package (2.2 oz)
+\Sugar-coated chocolate discs (Snow Caps)\ ounce (10 nonpareils)
 \M&M's, plain\ package (1.7 oz)
-Sixlets,tube (8 pieces)
+\Sixlets,tube (8 pieces)
 \Easter egg, candy coated chocolate (Cadbury's Mini Eggs)\ Cadbury Mini Egg
 \Taffy (Starburst, Laffy Taffy, Salt Water Taffy)\ piece
 \Toffee, plain\ piece
@@ -6335,8 +6335,8 @@ Sixlets,tube (8 pieces)
 \Coffee, brewed, regular and decaffeinated mixture\ mug (8 fl oz)
 \Coffee, Turkish\ mug (8 fl oz)
 \Coffee, Turkish\ turkish cup (4 fl oz)
-\Espresso,coffee cup (6 fl oz)
-\Espresso,espresso cup (2 fl oz)
+\Espresso\ coffee cup (6 fl oz)
+\Espresso\ espresso cup (2 fl oz)
 \Espresso\ mug (8 fl oz)
 \Espresso, decaffeinated\ coffee cup (6 fl oz)
 \Espresso, decaffeinated\ espresso cup (2 fl oz)
@@ -6388,7 +6388,7 @@ Sixlets,tube (8 pieces)
 \Cappuccino, regular, with skim milk \ mug (8 fl oz)
 \Cappuccino, regular, with 1% milk\ mug (8 fl oz)
 \Postum, prepared with water\ mug (8 fl oz)
-Chicory coffee  \ mug (8 fl oz)
+\Chicory coffee  \ mug (8 fl oz)
 \Rice beverage (Rice Dream, rice drink)\ mug (8 fl oz)
 \Tea, unsweetened\ mug (8 fl oz)
 \Tea, sweetened with sugar\ mug (8 fl oz)
@@ -6608,7 +6608,7 @@ Chicory coffee  \ mug (8 fl oz)
 \Pink beans, cooked from dry (no salt or fat added)\ ounce(s)
 \Pinto beans, cooked from dry (no salt or fat added)\ cup, mashed
 \Pinto beans, cooked from dry (no salt or fat added)\ cup
-\Pinto beans, cooked from dry (no salt or fat added)\ cup, refried beans\
+\Pinto beans, cooked from dry (no salt or fat added)\ cup, refried beans
 \Pinto beans, cooked from dry (no salt or fat added)\ ounce(s)
 \Kidney beans, cooked from dry (no salt or fat added)\ cup, mashed
 \Kidney beans, cooked from dry (no salt or fat added)\ cup
@@ -6673,15 +6673,15 @@ Chicory coffee  \ mug (8 fl oz)
 \Taro leaves, cooked (no salt or fat added)\ cup
 \Turnip greens, fresh, cooked (no salt or fat added)\ cup
 \Watercress, cooked (no salt or fat added) \ cup
-\Broccoli, fresh, cooked (no salt or fat added) \ cup, chopped\
-\Carrots, fresh, cooked (no salt or fat added) \ cup, sliced\
+\Broccoli, fresh, cooked (no salt or fat added) \ cup, chopped
+\Carrots, fresh, cooked (no salt or fat added) \ cup, sliced
 \Carrots, fresh, cooked (no salt or fat added) \ baby carrot(s)
 \Carrots, fresh, cooked (no salt or fat added) \ medium carrot (6"" to 7"" long)
 \Pumpkin, fresh, cooked (no salt or fat added)\ cup
 \Squash, winter, mashed (no salt, fat, or sugar added)\ cup, acorn
 \Squash, winter, mashed (no salt, fat, or sugar added)\ cup, butternut
 \Squash, winter, mashed (no salt, fat, or sugar added)\ cup, hubbard
-\Squash, winter, baked (no salt, fat, or sugar added)\ cup, cubes, all varieties\
+\Squash, winter, baked (no salt, fat, or sugar added)\ cup, cubes, all varieties
 \Squash, winter, baked (no salt, fat, or sugar added)\ portion (1/2 acorn squash)
 \Sweet potato (yam), baked (no salt added), peel eaten\ cup
 \Sweet potato (yam), baked (no salt added), peel eaten\ medium potato (5"" long)
@@ -6689,7 +6689,7 @@ Chicory coffee  \ mug (8 fl oz)
 \Sweet potato (yam), baked (no salt added), peel not eaten\ medium potato (5"" long)
 \Sweet potato (yam), boiled (no salt added), without peel\ cup
 \Sweet potato (yam), boiled (no salt added), without peel\ medium potato (5"" long)
-\Artichoke, cooked, fresh (no salt or fat added) \ cup, hearts\
+\Artichoke, cooked, fresh (no salt or fat added) \ cup, hearts
 \Asparagus, cooked, fresh (no salt or fat added)\ cup
 \Asparagus, cooked, fresh (no salt or fat added)\ medium spear (5-1/4"" to 7"" long)
 \String beans, fresh, cooked (no salt or fat added)\ cup
@@ -6698,14 +6698,14 @@ Chicory coffee  \ mug (8 fl oz)
 \String beans, yellow, fresh, cooked (no salt or fat added)\ portion (10 beans)
 \Beets, fresh, cooked (no salt or fat added)\ cup, dice
 \Bitter melon, cooked (no salt or fat added)\ cup
-\Broccoflower, cooked (no salt or fat added)\ cup, flowerets\
+\Broccoflower, cooked (no salt or fat added)\ cup, flowerets
 \Brussels sprouts, fresh, cooked (no salt or fat added)\ cup
 \Burdock, cooked (no salt or fat added)\ cup
 \Cabbage, green, cooked (no salt or fat added)\ medium leaf
 \Cabbage, red, cooked (no salt or fat added)\ cup
 \Cabbage, red, cooked (no salt or fat added)\ leaves
 \Cactus, cooked (no salt or fat added)\ cup
-\Cauliflower, fresh, cooked (no salt or fat added)\ cup, flowerets\
+\Cauliflower, fresh, cooked (no salt or fat added)\ cup, flowerets
 \Celery, cooked (no salt or fat added) \ cup, dice
 \Celery, cooked (no salt or fat added) \ medium stalk (7-1/2"" - 8"" long)
 \Fennel bulb, cooked (no salt or fat added)\ fennel bulb
@@ -6772,7 +6772,7 @@ Chicory coffee  \ mug (8 fl oz)
 \Vinegar, balsamic\ cup
 \Vinegar, balsamic\ tablespoon
 \Vinegar, balsamic\ teaspoon
-\Kale, raw\ cup, chopped\
+\Kale, raw\ cup, chopped
 \Kale, raw\ ounce
 \Pepper, red (cayenne)\ teaspoon
 \Pepper, red (cayenne)\ tablespoon
@@ -6784,9 +6784,9 @@ Chicory coffee  \ mug (8 fl oz)
 \Cinnamon\ tablespoon
 \Ginger, raw\ cup, slices
 \Ginger, raw\ slice
-\Ginger, ground\ teaspoon
-\Ginger, ground\ tablespoon
-\Basil, fresh\ tablespoon, chopped\
+\Ginger, ground teaspoon
+\Ginger, ground tablespoon
+\Basil, fresh\ tablespoon, chopped
 \Basil, dried\ tablespoon
 \Tempeh, raw\ cup
 \Tempeh, raw\ ounce(s)
@@ -6871,14 +6871,14 @@ Chicory coffee  \ mug (8 fl oz)
 \Lamb, raw, chop, loin, bone in, fat not trimmed\ chop
 \Lamb, raw, ribs, fat not trimmed (rack of lamb)\ ounce(s)
 \Lamb, raw, roast, leg, fat not trimmed (leg of lamb)\ ounce(s)
-\Lamb, raw, ground\ ounce(s)
+\Lamb, raw, ground ounce(s)
 \Goat, raw, skin removed\ ounce(s)
 \Veal, raw, boneless, fat not trimmed\ ounce(s)
 \Veal, raw, chop, boneless, fat not trimmed\ ounce(s)
 \Veal, raw, chop, boneless, fat not trimmed\ chop
-\Veal, raw, ground\ ounce(s)
-\Venison, (deer), raw, ground\ ounce(s)
-\Buffalo, (bison), raw, ground\ ounce(s)
+\Veal, raw, ground ounce(s)
+\Venison, (deer), raw, ground ounce(s)
+\Buffalo, (bison), raw, ground ounce(s)
 \Chicken, raw, breast, bone in, with skin, skin removed\ ounce(s)
 \Chicken, raw, breast, bone in, with skin, skin removed\ breast
 \Chicken, raw, tenderloins, boneless, skinless \ ounce(s)
@@ -6981,8 +6981,8 @@ Chicory coffee  \ mug (8 fl oz)
 \Sunflower seed butter, with salt\ teaspoon
 \Poppy seeds\ tablespoon
 \Poppy seeds\ teaspoon
-\Mustard seed\ tablespoon, ground\
-\Mustard seed\ teaspoon, ground\
+\Mustard seed\ tablespoon, ground
+\Mustard seed\ teaspoon, ground
 \Cumin seed\ tablespoon
 \Cumin seed\ teaspoon
 \Coriander seed\ tablespoon
@@ -7005,12 +7005,12 @@ Chicory coffee  \ mug (8 fl oz)
 \Cake mix, yellow\ ounce(s)
 \Cake mix, white\ ounce(s)
 \Cake mix, chocolate\ ounce(s)
-\Pasta, macaroni, elbow, dry\ cup, elbow\
-\Pasta, macaroni, elbow, dry\ cup, rotini\
-\Pasta, macaroni, elbow, dry\ cup, shells\
-\Pasta, macaroni, elbow, whole wheat, dry\ cup, elbow\
-\Pasta, macaroni, elbow, whole wheat, dry\ cup, rotini\
-\Pasta, macaroni, elbow, whole wheat, dry\ cup, shells\
+\Pasta, macaroni, elbow, dry\ cup, elbow
+\Pasta, macaroni, elbow, dry\ cup, rotini
+\Pasta, macaroni, elbow, dry\ cup, shells
+\Pasta, macaroni, elbow, whole wheat, dry\ cup, elbow
+\Pasta, macaroni, elbow, whole wheat, dry\ cup, rotini
+\Pasta, macaroni, elbow, whole wheat, dry\ cup, shells
 \Pasta, macaroni, elbow, whole wheat, dry\ lasagna sheet
 \Pasta, spaghetti, spinach, dry\ ounce(s)
 \Pasta, egg noodles, dry\ cup
@@ -7042,11 +7042,11 @@ Chicory coffee  \ mug (8 fl oz)
 \Allspice\ tablespoon
 \Vinegar, cider\ tablespoon
 \Cream of potato soup, canned, condensed\ cup
-\Spinach, frozen, cooked (no salt or fat added)\ cup, chopped\
+\Spinach, frozen, cooked (no salt or fat added)\ cup, chopped
 \Spinach, frozen, cooked (no salt or fat added)\ cup, leaves\
 \Turnip greens, frozen, cooked (no salt or fat added)\ cup
-\Broccoli, frozen, cooked (no salt or fat added)\ cup, chopped\
-\Carrots, frozen, cooked (no salt or fat added)\ cup, sliced\
+\Broccoli, frozen, cooked (no salt or fat added)\ cup, chopped
+\Carrots, frozen, cooked (no salt or fat added)\ cup, sliced
 \Carrots, frozen, cooked (no salt or fat added)\ baby carrot(s)
 \Peas and carrots, frozen, cooked, (no salt or fat added)\ cup
 \Pumpkin, frozen, cooked  (no salt or fat added)\ cup
@@ -7060,7 +7060,7 @@ Chicory coffee  \ mug (8 fl oz)
 \Thyme, dried\ teaspoon
 \Thyme, fresh\ teaspoon
 \Tarragon\ tablespoon
-\Shallots, raw\ tablespoon, chopped\
+\Shallots, raw\ tablespoon, chopped
 \Dill, dried\ tablespoon
 \Dill, fresh\ tablespoon
 \Lima beans, baby, dry\ cup
@@ -7092,11 +7092,11 @@ Chicory coffee  \ mug (8 fl oz)
 \Cream of mushroom soup, canned, reduced sodium, condensed\ cup
 \Onion soup mix, dry\ packet
 \Vegetable soup mix, dry\ packet
-\Cardamom\ tablespoon, ground\
+\Cardamom\ tablespoon, ground
 \Lemongrass\ cup
 \Lemongrass\ tablespoon
-\Nutmeg\ tablespoon, ground\
-\Nutmeg\ teaspoon, ground\
+\Nutmeg\ tablespoon, ground
+\Nutmeg\ teaspoon, ground
 \Onion powder\ tablespoon
 \Oregano\ tablespoon
 \Paprika\ tablespoon
@@ -7106,9 +7106,9 @@ Chicory coffee  \ mug (8 fl oz)
 \Bay leaf\ tablespoon, crumble
 \Grapeseed oil\ tablespoon
 \Baking chocolate, unsweetened\ square
-\Pepper, white\ teaspoon, ground\
-\Pepper, black\ teaspoon, ground\
-\Pepper, black\ teaspoon, whole\
+\Pepper, white\ teaspoon, ground
+\Pepper, black\ teaspoon, ground
+\Pepper, black\ teaspoon, whole
 \Poultry seasoning\ tablespoon
 \Taco seasoning\ tablespoon
 \Vanilla extract\ tablespoon
@@ -7127,11 +7127,11 @@ Chicory coffee  \ mug (8 fl oz)
 \Squash, acorn, raw\ cup, cubes\
 \Squash, acorn, raw\ squash (4"" across)
 \Squash, winter, raw\ cup, cubes\
-\Mushroom, portabella, grilled\ cup, sliced\
+\Mushroom, portabella, grilled\ cup, sliced
 \Mushroom, portabella, raw\ cup, dice
 \Chili powder\ tablespoon
-\Yellow bell pepper, raw\ cup, chopped\
-\Yellow bell pepper, raw\ cup, sliced\
+\Yellow bell pepper, raw\ cup, chopped
+\Yellow bell pepper, raw\ cup, sliced
 \Yellow bell pepper, raw\ medium (2-3/4"" long, 2-1/2"" across)
 \Yellow bell pepper, raw\ slice or ring (3"" across 1/4"" thick)
 \Yellow bell pepper, raw\ portion (10 strips)
@@ -7162,7 +7162,7 @@ Chicory coffee  \ mug (8 fl oz)
 \Refried beans, no fat added\ cup
 \Cashews, dry roasted, without salt\ ounce (18 nuts)
 \Sunflower seeds, hulled, unroasted, salted\ tablespoon
-\Fruit pizza (dessert pizza)\ slice
+\Fruit pizza (dessert pizza) slice
 \Granola bar, Nature Valley Chewy Trail Mix\ bar (1.2 oz)
 \Granola bar, Nature Valley Chewy Yogurt\ bar (1.2 oz)
 \Granola bar, Nature Valley Sweet and Salty\ bar (1.2 oz)
@@ -7204,9 +7204,9 @@ Chicory coffee  \ mug (8 fl oz)
 \Chili cheese fries,Hardee's order
 \Chili cheese fries,Carl's Jr. order
 \French fries, with chili\ cup
-\Hash browns, refrigerated, unprepared\ cup
-\Hash browns, refrigerated, unprepared\ package (20 oz)
-\Hash browns, frozen, unprepared\ cup
+\Hash browns, refrigerated, unprepared cup
+\Hash browns, refrigerated, unprepared package (20 oz)
+\Hash browns, frozen, unprepared cup
 \Nonstick cooking spray (PAM),spray
 \Tea, hibiscus\ cup
 \Fruit-flavored sports drink or thirst quencher beverage, low calorie\ cup
@@ -7214,7 +7214,7 @@ Chicory coffee  \ mug (8 fl oz)
 \Powerade Zero sports drink, low calorie\ bottle (12 fl oz)
 \Mimosa\ cocktail
 \Biscuit mix\ cup
-\Green chiles, canned\ tablespoon, chopped\
+\Green chiles, canned\ tablespoon, chopped
 \Black beans, canned, low sodium\ cup
 \Corn, yellow, canned, cream style\ cup
 \Great northern beans, canned, low sodium\ cup
@@ -7247,21 +7247,21 @@ Chicory coffee  \ mug (8 fl oz)
 \Chickpeas (garbanzo beans), canned, low sodium\ cup
 \Blackeye peas (cowpeas), canned, low sodium\ cup
 \Tomatoes, cherry\ cup, cherry tomatoes\
-\Tomatoes, cherry\ cup, chopped or sliced\
+\Tomatoes, cherry\ cup, chopped or sliced
 \Tomatoes, cherry\ cherry tomato
 \Mushrooms, cremini\ medium
 \Cilantro, dried\ tablespoon
 \Pasta, ziti, dry\ cup, ziti\
 \Pasta, fettucine noodles, dry\ ounce(s)
 \Garlic salt\ teaspoon
-\Tomatoes, grape\ cup, chopped or sliced\
+\Tomatoes, grape\ cup, chopped or sliced
 \Tomatoes, grape\ grape tomato
 \Lime peel\ tablespoon
 \Mayonnaise, low fat\ tablespoon
 \Sour cream, low fat\ cup
 \Sour cream, low fat\ ounce(s)
 \Sour cream, low fat\ container (8 oz)
-\Cabbage, white, raw\ cup, chopped\
+\Cabbage, white, raw\ cup, chopped
 \Cabbage, white, raw\ medium leaf
 \Cabbage, white, raw\ head, medium\
 \Turkey, breast, whole, roasted\ breast
@@ -7541,25 +7541,25 @@ Chicory coffee  \ mug (8 fl oz)
 \Egg white omelet, with meat and vegetables, cooked without fat\ large egg(s)
 \Egg white omelet, with meat, vegetables, and cheese, cooked in oil\ large egg(s)
 \Egg white omelet, with meat, vegetables, and cheese, cooked without fat\ large egg(s)
-\Egg substitute, (Egg Beaters) scrambled, cooked in margarine\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, cooked in oil\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, cooked in butter\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, cooked in nonstick spray\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with cheese, cooked in oil\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with cheese, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat, cooked in oil\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with vegetables, cooked in oil\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with vegetables, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat and cheese, cooked in oil\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat and cheese, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with vegetables and cheese, cooked in oil\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with vegetables and cheese, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat and vegetables, cooked in oil\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat and vegetables, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat, vegetables and cheese, cooked without fat\ carton (8 fl oz), prepared\
-\Egg substitute, (Egg Beaters) scrambled, with meat, vegetables and cheese, cooked in oil\ carton (8 fl oz), prepared\
+\Egg substitute, (Egg Beaters) scrambled, cooked in margarine\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, cooked in oil\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, cooked in butter\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, cooked in nonstick spray\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with cheese, cooked in oil\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with cheese, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat, cooked in oil\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with vegetables, cooked in oil\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with vegetables, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat and cheese, cooked in oil\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat and cheese, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with vegetables and cheese, cooked in oil\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with vegetables and cheese, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat and vegetables, cooked in oil\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat and vegetables, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat, vegetables and cheese, cooked without fat\ carton (8 fl oz), prepared
+\Egg substitute, (Egg Beaters) scrambled, with meat, vegetables and cheese, cooked in oil\ carton (8 fl oz), prepared
 \Split peas, cooked (with salt and vegetable oil)\ cup
 \Split peas, cooked (with salt and vegetable oil)\ ounce(s)
 \Wasabi peas\ cup
@@ -7593,15 +7593,15 @@ Chicory coffee  \ mug (8 fl oz)
 \Waffles, whole wheat, lowfat\ waffle
 \Dosa (Indian pancake), plain\ medium
 \Funnel cake, with strawberries and powdered sugar\ cake (6"" across)
-\Grits, corn or hominy, instant, cheddar flavor, cooked (with milk, no fat added)\ cup, cooked\
-\Grits, corn or hominy, instant, cheddar flavor, cooked, (with margarine)\ cup, cooked\
+\Grits, corn or hominy, instant, cheddar flavor, cooked (with milk, no fat added)\ cup, cooked
+\Grits, corn or hominy, instant, cheddar flavor, cooked, (with margarine)\ cup, cooked
 \Cornmeal sticks, boiled (guanimes)\ stick
 \Cornstarch and milk cereal (Maizena)\ cup
-\Oatmeal, regular, cooked (with salt and milk, no fat added)\ cup, cooked\
-\Oatmeal, quick, cooked (made salt and milk, no fat added)\ cup, cooked\
-\Oatmeal, regular, cooked (with salt, milk, and margarine)\ cup, cooked\
-\Oatmeal, quick, cooked (with salt, milk, and margarine)\ cup, cooked\
-\Oatmeal, instant, cooked (with salt, milk, and margarine)\ cup, cooked\
+\Oatmeal, regular, cooked (with salt and milk, no fat added)\ cup, cooked
+\Oatmeal, quick, cooked (made salt and milk, no fat added)\ cup, cooked
+\Oatmeal, regular, cooked (with salt, milk, and margarine)\ cup, cooked
+\Oatmeal, quick, cooked (with salt, milk, and margarine)\ cup, cooked
+\Oatmeal, instant, cooked (with salt, milk, and margarine)\ cup, cooked
 \Almond milk, sweetened\ cup
 \Hot cocoa, (Hershey's), (Nestle's Quick), reduced sugar, with whole milk\ cup
 \Hot cocoa, (Hershey's), (Nestle's Quick), reduced sugar, with reduced fat (2%) milk\ cup
@@ -7748,18 +7748,18 @@ Chicory coffee  \ mug (8 fl oz)
 \Whiting, floured or breaded, baked or broiled, with nonstick spray\ medium fillet
 \Whiting, floured or breaded, fried with nonstick spray\ ounce(s), cooked, boneless
 \Whiting, floured or breaded, fried with nonstick spray\ medium fillet
-\Oatmeal, multigrain, cooked (with salt and margarine)\ cup, cooked\
-\Quinoa, cooked (with salt, no fat added)\ cup, cooked\
-\Quinoa, cooked (with salt and margarine)\ cup, cooked\
-\Rice, white, cooked (with salt and vegetable oil) \ cup, cooked\
-\Rice, white, cooked (with salt and butter)\ cup, cooked\
-\Rice, white, cooked, cooked (with salt and margarine)\ cup, cooked\
-\Rice, white, cooked, (with salt, no fat added)\ cup, cooked\
-\Rice, brown, cooked, fat added in cooking (with salt and vegetable oil) \ cup, cooked\
-\Rice, brown, cooked, fat added in cooking (with salt and butter)\ cup, cooked\
-\Rice, brown, cooked, fat added in cooking (with salt and margarine)\ cup, cooked\
-\Rice, brown, cooked (with salt, no fat added)\ cup, cooked\
-\Rice, wild, cooked (with salt and vegetable oil)\ cup, cooked\
+\Oatmeal, multigrain, cooked (with salt and margarine)\ cup, cooked
+\Quinoa, cooked (with salt, no fat added)\ cup, cooked
+\Quinoa, cooked (with salt and margarine)\ cup, cooked
+\Rice, white, cooked (with salt and vegetable oil) \ cup, cooked
+\Rice, white, cooked (with salt and butter)\ cup, cooked
+\Rice, white, cooked, cooked (with salt and margarine)\ cup, cooked
+\Rice, white, cooked, (with salt, no fat added)\ cup, cooked
+\Rice, brown, cooked, fat added in cooking (with salt and vegetable oil) \ cup, cooked
+\Rice, brown, cooked, fat added in cooking (with salt and butter)\ cup, cooked
+\Rice, brown, cooked, fat added in cooking (with salt and margarine)\ cup, cooked
+\Rice, brown, cooked (with salt, no fat added)\ cup, cooked
+\Rice, wild, cooked (with salt and vegetable oil)\ cup, cooked
 \Banana Nut Cheerios\ cup
 \Chex Cinnamon\ cup
 \Chocolate Cheerios\ cup
@@ -7855,8 +7855,8 @@ Chicory coffee  \ mug (8 fl oz)
 \Taquitos, with egg\ medium taquito
 \Taquitos, with egg and bacon\ medium taquito
 \Fajitas, vegetable\ fajita
-\Pizza, cheese, stuffed crust\ slice (1/8 of 14"" pizza)\
-\Pizza, with pepperoni, stuffed crust\ slice (1/8 of 14"" pizza)\
+\Pizza, cheese, stuffed crust\ slice (1/8 of 14"" pizza)
+\Pizza, with pepperoni, stuffed crust\ slice (1/8 of 14"" pizza)
 \Wonton, fried, meat and vegetable (potsticker)\ pot sticker
 \Meat turnover, Puerto Rican style \ turnover
 \Cornmeal stick, Puerto Rican style\ stick (3"" x 3/4"")
@@ -7947,7 +7947,7 @@ Butter and vegetable oil blend\ tablespoon
 \Chocolate bar, dark, with almonds (Hershey Special Dark with Almonds)\ bar (1.4 oz)
 \Chocolate bar, white, with almonds\ bar (1.4 oz)
 \Kit Kat White\ bar
-\Dried fruit and nut bar (date bar),ounce(s)
+\Dried fruit and nut bar (date bar)\ ounce(s)
 \Soft fruit candy (Aplets & Cotlets, Turkish delight)\ piece
 \Fudge, chocolate, chocolate covered\ piece (1-inch cube)
 \Fudge, chocolate, chocolate covered, with nuts\ piece (1-inch cube)
@@ -8015,14 +8015,14 @@ Butter and vegetable oil blend\ tablespoon
 \Tea, instant powder, dry\ teaspoon
 \Arnold Palmer (half tea, half lemonade)\ cup (8 fl oz)
 \Arnold Palmer (half tea, half lemonade), low calorie\ cup (8 fl oz)
-Carbonated citrus juice drink\ can (12 fl oz)
+\Carbonated citrus juice drink\ can (12 fl oz)
 \Lemonade, frozen concentrate, not reconstituted\ can (6 fl oz.)
 \Fruit flavored frozen drink (Slushie, Slurpee, Icee)\ cup (8 fl oz)
 \Fruit flavored frozen drink (Slushie, Slurpee, Icee)\ medium slurpee (16 fl oz cup)
 \Horchata, made with almonds (horchata de almendras)\ cup (8 fl oz)
 \Horchata, with skim milk\ cup (8 fl oz)
-Coconut beverage (Refresco de coco)\ cup (8 fl oz)
-Oatmeal beverage (Frescavena)\ cup (8 fl oz)
+\Coconut beverage (Refresco de coco)\ cup (8 fl oz)
+\Oatmeal beverage (Frescavena)\ cup (8 fl oz)
 \Oatmeal beverage (atole de avena), with whole milk \ cup (8 fl oz)
 \Oatmeal beverage (atole de avena), with 2% milk \ cup (8 fl oz)
 \Horchata, with whole milk\ cup (8 fl oz)
@@ -8045,17 +8045,17 @@ Oatmeal beverage (Frescavena)\ cup (8 fl oz)
 \Gibson\ cocktail
 \Gin Rickey\ cocktail
 \Golden Cadillac\ cocktail
-\\Fuzzy Navel\ cocktail
-Gin fizz\ cocktail
+\Fuzzy Navel\ cocktail
+\Gin fizz\ cocktail
 \Zombie\ cocktail
 \Water, fruit flavored, sweetened, with high fructose corn syrup and low calorie sweetener\ juice box or pouch (6.75 fl oz)
-SoBe Lifewater\ bottle (20 fl oz)
+\SoBe Lifewater\ bottle (20 fl oz)
 \Glaceau Water, low calorie\ bottle (20 fl oz)
 \Boost Plus, ready-to-drink\ cup (8 fl oz)
 \Carnation Instant Breakfast, ready-to-drink, regular\ bottle (11 fl oz)
 \Carnation Instant Breakfast, ready-to-drink, sugar free\ bottle (11 fl oz)
 \Glucerna, nutritional shake, ready-to-drink\ bottle (11 fl oz)
-Kellogg's Special K protein shake\ bottle (10 fl oz)
+\Kellogg's Special K protein shake\ bottle (10 fl oz)
 \Muscle Milk, ready-to-drink\ bottle (14 fl oz)
 \Muscle Milk, ready-to-drink, light\ cup (8 fl oz)
 \Slim Fast shake, ready-to-drink, regular\ cup (8 fl oz)
@@ -8063,23 +8063,23 @@ Kellogg's Special K protein shake\ bottle (10 fl oz)
 \Slim Fast shake, ready-to-drink, high protein\ cup (8 fl oz)
 \Carnation Instant Breakfast, nutritional drink mix, regular, powder\ tablespoon
 \Carnation Instant Breakfast, nutritional drink mix, sugar free, powder\ tablespoon
-EAS whey protein powder\ tablespoon
-EAS soy protein powder\ tablespoon
+\EAS whey protein powder\ tablespoon
+\EAS soy protein powder\ tablespoon
 \Herbalife, nutritional shake mix, high protein, powder\ scoop
-Isopure protein powder,scoop
-Kellogg's Special K20 protein water mix\ packet
+\Isopure protein powder,scoop
+\Kellogg's Special K20 protein water mix\ packet
 \Muscle Milk, regular, powder\ scoop
 \Muscle Milk, light, powder\ scoop
 \Slim Fast shake mix, powder\ scoop
 \Slim Fast shake mix, sugar free, powder\ scoop
 \Slim Fast shake mix, high protein, powder\ scoop
-No Fear energy drink\ can or bottle (16 fl oz)
-No Fear Motherload energy drink\ can or bottle (16 fl oz)
-No Fear Motherload energy drink\ can (8 fl oz)
-NOS energy drink\ can (16 fl oz)
-NOS energy drink\ bottle (13.5 fl oz)
-SoBe Energize energy juice drink\ can (16 fl oz)
-Energy drink\ can (16 fl oz)
+\No Fear energy drink\ can or bottle (16 fl oz)
+\No Fear Motherload energy drink\ can or bottle (16 fl oz)
+\No Fear Motherload energy drink\ can (8 fl oz)
+\NOS energy drink\ can (16 fl oz)
+\NOS energy drink\ bottle (13.5 fl oz)
+\SoBe Energize energy juice drink\ can (16 fl oz)
+\Energy drink\ can (16 fl oz)
 \Monster, Lo Carb, energy drink\ can or bottle (16 fl oz)
 \No Fear energy drink, sugar-free\ can or bottle (16 fl oz)
 \No Fear energy drink, sugar-free\ can (8 fl oz)
@@ -8094,11 +8094,11 @@ Energy drink\ can (16 fl oz)
 \Kishka (kishke),1 inch piece
 \Turnover, beef and gravy\ turnover
 \Turnover, beef, beans and gravy\ turnover
-\Turnover, cheese and tomato sauce (Hot Pockets Pizza)\ Hot Pockets Four Cheese Pizza
+\Turnover, cheese and tomato sauce (Hot Pockets pizza) Hot Pockets Four Cheese Pizza
 \Turnover, beef and vegetable\ turnover
 \Turnover, beef and potato\ turnover
 \Spaghetti and meatballs, tomato sauce, white noodles, no fat added\ cup
-\Spaghetti and meatballs, tomato sauce, white noodles, no fat added\ package, prepared\
+\Spaghetti and meatballs, tomato sauce, white noodles, no fat added\ package, prepared
 \Spaghetti, tomato sauce, white noodles, no fat added\ cup
 \Spaghetti, tomato sauce, whole wheat noodles, no fat added\ cup
 \Spaghetti and meatballs, tomato sauce, whole wheat noodles, no fat added\ cup
@@ -8197,13 +8197,13 @@ Energy drink\ can (16 fl oz)
 \Cassava (yuca blanca), cooked, fat added in cooking \ cup, dice
 \Celeriac, cooked\ cup, pieces
 \Fufu (African)\ cup, cooked
-\Broccoli rabe, raw\ cup, chopped\
+\Broccoli rabe, raw\ cup, chopped
 \Broccoli rabe cooked (with salt), no fat added\ cup
 \Broccoli rabe, cooked (with salt), fat added in cooking\ cup
 \Cress, raw\ cup
 \Cress, canned, cooked (with salt, no fat added)\ cup
 \Cress, canned, cooked (with salt and fat)\ cup
-\Dandelion greens, cooked (with salt, no fat added)\ cup, chopped\
+\Dandelion greens, cooked (with salt, no fat added)\ cup, chopped
 \Salad, Caesar, no dressing\ Wendy's side salad
 \Escarole, cooked (with salt and fat)\ head
 \Mixed greens, frozen, cooked (with salt, no fat added)\ cup
@@ -8212,7 +8212,7 @@ Energy drink\ can (16 fl oz)
 \Mixed greens, canned, cooked (with salt and fat)\ cup
 \Chamnamul (Korean leaf vegetable), cooked (with salt, no fat added)\ cup
 \Chamnamul (Korean leaf vegetable), cooked (with salt and fat)\ cup
-\Kale, canned, cooked (with salt and fat)\ cup, canned\
+\Kale, canned, cooked (with salt and fat)\ cup, canned
 \Lambsquarter, cooked (with salt, no fat added)\ cup
 \Lambsquarter, cooked (with salt and fat)\ cup
 \Poke greens, cooked (with salt and fat)\ cup
@@ -8231,7 +8231,7 @@ Energy drink\ can (16 fl oz)
 \Broccoli, fresh, cooked, with cream sauce\ cup
 \Broccoli, frozen, cooked, with cream sauce\ cup
 \Watercress and shrimp soup\ cup
-\Carrots, canned, low sodium, fat added in cooking\ cup, sliced\
+\Carrots, canned, low sodium, fat added in cooking\ cup, sliced
 \Peas and carrots, fresh, creamed\ cup
 \Peas and carrots, frozen, creamed\ cup
 \Peas and carrots, canned, creamed\ cup
@@ -8267,10 +8267,10 @@ Energy drink\ can (16 fl oz)
 \Cabbage salad, Chinese, with carrots, ramen noodles, sesame seeds, and dressing\ cup
 \Cucumber salad, with French dressing\ cup
 \Salad, Cobb, no dressing\ cup
-\Artichoke, cooked, frozen (with salt, no fat added)\ cup, hearts\
-\Artichoke, cooked, canned (no fat added)\ cup, hearts\
-\Artichoke, cooked, frozen (with salt and margarine)\ cup, hearts\
-\Artichoke, cooked, canned (with margarine)\ cup, hearts\
+\Artichoke, cooked, frozen (with salt, no fat added)\ cup, hearts
+\Artichoke, cooked, canned (no fat added)\ cup, hearts
+\Artichoke, cooked, frozen (with salt and margarine)\ cup, hearts
+\Artichoke, cooked, canned (with margarine)\ cup, hearts
 \Asparagus, cooked, frozen (with salt, no fat added)\ cup
 \Asparagus, cooked, canned (no fat added)\ cup
 \Asparagus, cooked, frozen (with salt and fat)\ cup
@@ -8296,7 +8296,7 @@ Energy drink\ can (16 fl oz)
 \Okra, canned, cooked (no fat added)\ pod
 \Okra, canned, cooked (with fat added)\ pod
 \Parsnips, cooked (with salt and fat)\ medium
-\Peppers, hot, frozen, cooked (with salt, no fat added)\ tablespoon, chopped\
+\Peppers, hot, frozen, cooked (with salt, no fat added)\ tablespoon, chopped
 \Peppers, hot, frozen, cooked (with salt and fat)\ pepper
 \Peppers, hot, frozen, cooked (with salt and fat)\ jalapeno pepper
 \Peppers, hot, canned, cooked (with fat added)\ jalapeno pepper
