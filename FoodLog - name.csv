@@ -14,7 +14,7 @@ foodname\ portionappend
 2% milk, lactose-free (Lactaid)\ cup, 122
 3 Musketeers Bar\ bar (2.1 oz), 263
 Abalone, steamed or poached\ ounce(s) cooked, 59
-Acai bowl (18 oz)\ bowl (18 oz), 370
+Acai bowl\ bowl (497g), 553
 Adobo fresco\ cup, 780
 Adobo fresco\ tablespoon, 780
 Agave syrup\ tablespoon, 65
@@ -3753,7 +3753,7 @@ Hayaca (hallaca), Puerto Rican style, with pork and vegetables\ hallaca (5-3/4" 
 Head cheese\ medium slice (1 oz), 45
 Heart, cooked\ chicken heart, 5
 Heart, cooked\ slice, 5
-Hemp seeds\ tablespoon, 55
+Hemp seeds\ tablespoon, 60
 Herbalife, nutritional shake mix, high protein, powder\ scoop, 49
 Herring, baked or broiled with margarine\ medium herring, 554
 Herring, baked or broiled with oil\ medium herring, 544
@@ -4058,7 +4058,7 @@ Juice Press Smoothie, Clean Green Protein\ Smoothie (12 oz), 430
 Juneberries, raw\ cup, 94
 Just Right Cereal\ cup, 204
 Just Right Fruit and Nut Cereal\ cup, 201
-Justin peanut butter cup\ cup, 210
+Justin peanut butter cup\ 2 cups, 210
 Kaboom Cereal\ cup, 96
 Kale, canned, cooked (with salt and fat)\ cup, canned, 77
 Kale, canned, cooked, no fat added\ cup, 46
@@ -4106,7 +4106,7 @@ Kidney, cooked\ beef kidney, 356
 Kidney, cooked\ pork kidney, 356
 Kidney, cooked\ lamb kidney, 356
 Kidney, cooked\ veal kidney, 356
-Kind Bar\ bar (1.4 oz), 180
+Kind Bar, Almond & Coconut\ bar (1.4 oz), 190
 King Vitaman Cereal\ cup, 80
 Kishka (kishke)\ 1 inch piece, 83
 Kit Kat\ bar (1.5 oz), 223
@@ -4158,7 +4158,7 @@ Lamb, shoulder, cooked, lean and fat eaten\ medium slice (3" across x 1/4" thick
 Lamb, shoulder, cooked, lean only eaten\ medium slice (3" across x 1/4" thick), 57
 Lambsquarter, cooked (with salt and fat)\ cup, 83
 Lambsquarter, cooked (with salt, no fat added)\ cup, 58
-Lara Bar\ bar (1.7 oz), 190
+Lara Bar\ bar (1.7 oz), 220
 Lard\ cup, 1849
 Lard\ tablespoon, 1849
 Lard\ teaspoon, 1849
@@ -4546,7 +4546,7 @@ Mashed potatoes, with milk, and sour cream or cream cheese\ cup, 256
 Mashed potatoes, with milk, margarine or butter, and cheese\ cup, 242
 Mashed potatoes, with milk, margarine or butter, and sour cream or cream cheese\ cup, 309
 Mashed potatoes, with sour cream or cream cheese and margarine or butter\ cup, 313
-Matcha Latte, regular, with skim milk\ cup (8 fl oz), 125
+Matcha Latte, regular, with nonfat milk\ cup (8 fl oz), 93
 Matcha Latte, skim, with 2% milk\ cup (8 fl oz), 120
 Matzo ball\ matzo ball, 48
 Matzo ball soup\ cup, 145
@@ -4950,8 +4950,7 @@ Oat bran cereal, cooked, cooked (with salt, milk, and margarine)\ cup, 252
 Oat bran cereal, dry\ cup, 286
 Oat Bran Flakes Cereal\ cup, 179
 Oat bran, uncooked\ cup, 231
-Oat milk, sweetened\ cup, 144
-Oat milk, unsweetened\ cup, 132
+Oat milk, unsweetened\ cup, 135
 Oatmeal beverage (atole de avena), with 2% milk\ cup (8 fl oz), 196
 Oatmeal beverage (atole de avena), with whole milk\ cup (8 fl oz), 209
 Oatmeal beverage (Frescavena)\ cup (8 fl oz), 103
@@ -6585,7 +6584,7 @@ Rutabaga, cooked (with salt, no fat added)\ cup, mashed, 72
 Rutabaga, cooked (with salt, no fat added)\ cup, pieces, 72
 Rutabaga, cooked (with salt, no fat added)\ medium, 72
 Rutabaga, raw\ cup, 52
-RX Bar\ bar (1.83 oz), 210
+RX Bar, Coconut Cacao\ bar (1.83 oz), 210
 Rye flour\ cup, 356
 Saag chana (Indian stewed spinach and chickpeas)\ cup, 208
 Saffron\ tablespoon, 7
@@ -7577,10 +7576,9 @@ Sweet potatoes (yams), canned in syrup, with fat added\ cup, mashed, 255
 Sweet potatoes (yams), canned in syrup, with fat added\ cup, pieces, 255
 Sweet Puffs Cereal\ cup, 133
 Sweetbreads, cooked\ pair, 241
-Sweetgreen Chicken Pesto Salad, with dressing\ bowl, 640
 Sweetgreen Harvest Salad, with dressing\ bowl, 695
 Sweetgreen Kale Caesar Salad, with dressing\ bowl, 430
-Sweetgreen Shroomami Salad, with dressing\ bowl, 640
+Sweetgreen Shroomami Salad, with dressing\ bowl, 685
 Sweetpotato, white, Puerto Rican, boiled (with salt, no fat added)\ medium potato, 1008
 Swiss chard, cooked (no salt or fat added)\ cup, leaves only, 35
 Swiss chard, cooked (no salt or fat added)\ cup, stalks and leaves, 35
@@ -8141,7 +8139,7 @@ Veal, raw, ground\ ounce(s), 39
 Veal, roasted, lean and fat eaten\ medium slice (4-1/2" x 2-1/2" x 1/4"), 96
 Veal, roasted, lean only eaten\ medium slice (4-1/2" x 2-1/2" x 1/4"), 73
 Vega protein powder\ scoop, 120
-Vegan Ice Cream\ cup, 261
+Vegan Ice Cream, Rudy's\ cup, 340
 Vegetable and fruit juice blend, 100% juice (V8 fusion)\ cup, 112
 Vegetable and fruit juice blend, 100% juice (V8 fusion)\ bottle (12 fl oz), 112
 Vegetable and fruit juice drink, low calorie, with vitamin C (Diet V8 Splash)\ cup, 10
@@ -8302,7 +8300,7 @@ Wheat germ, plain\ cup, 432
 Wheat germ, with sugar and honey\ cup, 498
 Wheat sticks, 100% whole wheat\ cup, 298
 Wheaties Cereal\ cup, 106
-Whey protein powder\ scoop, 210
+Whey protein powder\ scoop, 90
 Whey, sweet, dry\ tablespoon, 26
 Whiskey\ jigger (1.5 fl oz), 105
 Whiskey sour\ cocktail, 122
